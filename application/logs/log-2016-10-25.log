@@ -1,0 +1,1410 @@
+DEBUG - 2016-10-25 04:25:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 04:25:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 04:25:16 --> Severity: Error --> Class 'Base_Interface' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\interface\Group_interface.php 8
+DEBUG - 2016-10-25 05:01:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:01:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 05:01:49 --> Severity: Error --> Class 'Base_Interface' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\interface\Group_interface.php 8
+DEBUG - 2016-10-25 05:11:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:11:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 05:11:13 --> Severity: Error --> Class 'CI_Base_Interface' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Common.php 196
+DEBUG - 2016-10-25 05:12:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:12:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:12:07 --> cURL Class Initialized
+DEBUG - 2016-10-25 05:12:07 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477365127.8556,"loading_time:_base_classes_start":1477365127.8556,"loading_time:_base_classes_end":1477365127.8766,"controller_execution_time_( Inter \/ demo )_start":1477365127.8786}}
+DEBUG - 2016-10-25 05:22:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:22:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:22:43 --> cURL Class Initialized
+DEBUG - 2016-10-25 05:22:43 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477365763.4188,"loading_time:_base_classes_start":1477365763.4188,"loading_time:_base_classes_end":1477365763.4408,"controller_execution_time_( Inter \/ demo )_start":1477365763.4418}}
+DEBUG - 2016-10-25 05:33:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:33:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:33:50 --> cURL Class Initialized
+DEBUG - 2016-10-25 05:33:50 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366430.6935,"loading_time:_base_classes_start":1477366430.6935,"loading_time:_base_classes_end":1477366430.7105,"controller_execution_time_( Inter \/ demo )_start":1477366430.7115}}
+DEBUG - 2016-10-25 05:33:52 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:33:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:33:52 --> cURL Class Initialized
+DEBUG - 2016-10-25 05:33:52 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366432.0996,"loading_time:_base_classes_start":1477366432.0996,"loading_time:_base_classes_end":1477366432.1196,"controller_execution_time_( Inter \/ demo )_start":1477366432.1206}}
+DEBUG - 2016-10-25 05:33:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:33:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:33:57 --> Total execution time: 0.0190
+DEBUG - 2016-10-25 05:33:57 --> {"querySql":" ","queryTime":" ","uri":"demo\/json","params":{"1":"demo","2":"json"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366437.4412,"loading_time:_base_classes_start":1477366437.4412,"loading_time:_base_classes_end":1477366437.4552,"controller_execution_time_( Demo \/ json )_start":1477366437.4562,"controller_execution_time_( Demo \/ json )_end":1477366437.4602,"total_execution_time_end":1477366437.4602}}
+DEBUG - 2016-10-25 05:34:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:34:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 05:34:02 --> 404 Page Not Found: Demo/sendmail
+DEBUG - 2016-10-25 05:34:10 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:34:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 05:34:10 --> 404 Page Not Found: Demo/sendemail
+DEBUG - 2016-10-25 05:34:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:34:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:34:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366456.8011,"loading_time:_base_classes_start":1477366456.8011,"loading_time:_base_classes_end":1477366456.8191,"controller_execution_time_( Demo \/ email )_start":1477366456.8211}}
+DEBUG - 2016-10-25 05:34:38 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:34:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:34:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:34:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:34:39 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366478.0632,"loading_time:_base_classes_start":1477366478.0632,"loading_time:_base_classes_end":1477366478.0822,"controller_execution_time_( Demo \/ email )_start":1477366478.0832}}
+DEBUG - 2016-10-25 05:36:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:36:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:36:18 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:36:18 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:36:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:36:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366578.0012,"loading_time:_base_classes_start":1477366578.0012,"loading_time:_base_classes_end":1477366578.0162,"controller_execution_time_( Demo \/ email )_start":1477366578.0172}}
+DEBUG - 2016-10-25 05:39:17 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:39:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:39:18 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:39:18 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:39:18 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:39:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:39:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:39:22 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366757.7992,"loading_time:_base_classes_start":1477366757.7992,"loading_time:_base_classes_end":1477366757.8232,"controller_execution_time_( Demo \/ email )_start":1477366757.8242}}
+DEBUG - 2016-10-25 05:40:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:40:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:40:43 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:40:43 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:40:44 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:40:44 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366843.3317,"loading_time:_base_classes_start":1477366843.3317,"loading_time:_base_classes_end":1477366843.3477,"controller_execution_time_( Demo \/ email )_start":1477366843.3497}}
+DEBUG - 2016-10-25 05:41:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:41:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:41:33 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:41:33 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:41:34 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:41:34 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366892.7937,"loading_time:_base_classes_start":1477366892.7937,"loading_time:_base_classes_end":1477366892.8147,"controller_execution_time_( Demo \/ email )_start":1477366892.8167}}
+DEBUG - 2016-10-25 05:42:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:42:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:42:27 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:42:29 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:42:29 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:42:29 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366947.6492,"loading_time:_base_classes_start":1477366947.6492,"loading_time:_base_classes_end":1477366947.6692,"controller_execution_time_( Demo \/ email )_start":1477366947.6702}}
+DEBUG - 2016-10-25 05:42:47 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:42:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:42:49 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:42:50 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:42:50 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:42:52 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366967.6482,"loading_time:_base_classes_start":1477366967.6482,"loading_time:_base_classes_end":1477366967.6692,"controller_execution_time_( Demo \/ email )_start":1477366967.6702}}
+DEBUG - 2016-10-25 05:43:11 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:43:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:43:12 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:43:12 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477366991.7706,"loading_time:_base_classes_start":1477366991.7706,"loading_time:_base_classes_end":1477366991.7906,"controller_execution_time_( Demo \/ email )_start":1477366991.7926}}
+DEBUG - 2016-10-25 05:43:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:43:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:43:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:43:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:43:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:43:39 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477367017.0351,"loading_time:_base_classes_start":1477367017.0351,"loading_time:_base_classes_end":1477367017.0511,"controller_execution_time_( Demo \/ email )_start":1477367017.0531}}
+DEBUG - 2016-10-25 05:44:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:44:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:44:21 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:44:32 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:44:32 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:44:32 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477367060.0034,"loading_time:_base_classes_start":1477367060.0034,"loading_time:_base_classes_end":1477367060.0264,"controller_execution_time_( Demo \/ email )_start":1477367060.0284}}
+DEBUG - 2016-10-25 05:44:46 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:44:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:44:47 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:44:48 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:44:49 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:44:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477367086.7401,"loading_time:_base_classes_start":1477367086.7401,"loading_time:_base_classes_end":1477367086.7641,"controller_execution_time_( Demo \/ email )_start":1477367086.7651}}
+DEBUG - 2016-10-25 05:45:29 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:45:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:45:30 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:45:30 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:45:30 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 05:45:30 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477367129.7014,"loading_time:_base_classes_start":1477367129.7014,"loading_time:_base_classes_end":1477367129.7254,"controller_execution_time_( Demo \/ email )_start":1477367129.7274}}
+DEBUG - 2016-10-25 05:46:24 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:46:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 05:46:24 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477367184.9309,"loading_time:_base_classes_start":1477367184.9309,"loading_time:_base_classes_end":1477367184.9519,"controller_execution_time_( Demo \/ email )_start":1477367184.9539}}
+DEBUG - 2016-10-25 05:55:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:55:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 05:55:02 --> Severity: Compile Error --> Method Base_Controller::__get() must take exactly 1 argument D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Controller.php 27
+DEBUG - 2016-10-25 05:55:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 05:55:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 05:55:32 --> Severity: Error --> Cannot assign by reference to overloaded object D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Controller.php 75
+DEBUG - 2016-10-25 06:00:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:00:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:00:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368033.9394,"loading_time:_base_classes_start":1477368033.9394,"loading_time:_base_classes_end":1477368033.9594,"controller_execution_time_( Demo \/ email )_start":1477368033.9614}}
+DEBUG - 2016-10-25 06:01:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:01:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:01:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368064.2654,"loading_time:_base_classes_start":1477368064.2654,"loading_time:_base_classes_end":1477368064.2814,"controller_execution_time_( Demo \/ email )_start":1477368064.2824}}
+DEBUG - 2016-10-25 06:01:39 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:01:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 06:01:39 --> Severity: Error --> Call to a member function sendMail() on string D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\controllers\Demo.php 32
+DEBUG - 2016-10-25 06:03:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:03:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 06:03:00 --> Severity: Error --> Call to a member function library() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 13
+DEBUG - 2016-10-25 06:06:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:06:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:06:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:06:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:06:57 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:06:57 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:06:57 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 06:06:58 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 19
+DEBUG - 2016-10-25 06:07:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:07:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:07:31 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368451.7076,"loading_time:_base_classes_start":1477368451.7076,"loading_time:_base_classes_end":1477368451.7236,"controller_execution_time_( Demo \/ email )_start":1477368451.7256}}
+DEBUG - 2016-10-25 06:08:51 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:08:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:08:51 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:08:51 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:08:51 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:08:51 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:08:52 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 06:08:52 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 19
+DEBUG - 2016-10-25 06:09:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:09:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:09:31 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:09:31 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:09:31 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:09:31 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:09:31 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:09:32 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:09:32 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368571.5156,"loading_time:_base_classes_start":1477368571.5156,"loading_time:_base_classes_end":1477368571.5336,"controller_execution_time_( Demo \/ email )_start":1477368571.5346}}
+DEBUG - 2016-10-25 06:10:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:10:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:10:13 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:10:13 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:10:13 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:10:14 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:10:14 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 06:10:14 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368613.6898,"loading_time:_base_classes_start":1477368613.6898,"loading_time:_base_classes_end":1477368613.7058,"controller_execution_time_( Demo \/ email )_start":1477368613.7078}}
+DEBUG - 2016-10-25 06:11:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:11:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 06:11:57 --> Severity: Error --> Class 'CI_Model' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 9
+DEBUG - 2016-10-25 06:12:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:12:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:12:19 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:12:19 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:12:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368739.0403,"loading_time:_base_classes_start":1477368739.0403,"loading_time:_base_classes_end":1477368739.0603,"controller_execution_time_( Demo \/ email )_start":1477368739.0613}}
+DEBUG - 2016-10-25 06:12:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368739.0403,"loading_time:_base_classes_start":1477368739.0403,"loading_time:_base_classes_end":1477368739.0603,"controller_execution_time_( Demo \/ email )_start":1477368739.0613}}
+DEBUG - 2016-10-25 06:13:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:31 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:31 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:31 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368811.7536,"loading_time:_base_classes_start":1477368811.7536,"loading_time:_base_classes_end":1477368811.7706,"controller_execution_time_( Demo \/ email )_start":1477368811.7716}}
+DEBUG - 2016-10-25 06:13:31 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368811.7536,"loading_time:_base_classes_start":1477368811.7536,"loading_time:_base_classes_end":1477368811.7706,"controller_execution_time_( Demo \/ email )_start":1477368811.7716}}
+DEBUG - 2016-10-25 06:13:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:32 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368812.6517,"loading_time:_base_classes_start":1477368812.6517,"loading_time:_base_classes_end":1477368812.6747,"controller_execution_time_( Demo \/ email )_start":1477368812.6757}}
+DEBUG - 2016-10-25 06:13:32 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368812.6517,"loading_time:_base_classes_start":1477368812.6517,"loading_time:_base_classes_end":1477368812.6747,"controller_execution_time_( Demo \/ email )_start":1477368812.6757}}
+DEBUG - 2016-10-25 06:13:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.0517,"loading_time:_base_classes_start":1477368813.0517,"loading_time:_base_classes_end":1477368813.0717,"controller_execution_time_( Demo \/ email )_start":1477368813.0727}}
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.0517,"loading_time:_base_classes_start":1477368813.0517,"loading_time:_base_classes_end":1477368813.0717,"controller_execution_time_( Demo \/ email )_start":1477368813.0727}}
+DEBUG - 2016-10-25 06:13:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.2647,"loading_time:_base_classes_start":1477368813.2647,"loading_time:_base_classes_end":1477368813.2797,"controller_execution_time_( Demo \/ email )_start":1477368813.2807}}
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.2647,"loading_time:_base_classes_start":1477368813.2647,"loading_time:_base_classes_end":1477368813.2797,"controller_execution_time_( Demo \/ email )_start":1477368813.2807}}
+DEBUG - 2016-10-25 06:13:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.4428,"loading_time:_base_classes_start":1477368813.4428,"loading_time:_base_classes_end":1477368813.4558,"controller_execution_time_( Demo \/ email )_start":1477368813.4578}}
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.4428,"loading_time:_base_classes_start":1477368813.4428,"loading_time:_base_classes_end":1477368813.4558,"controller_execution_time_( Demo \/ email )_start":1477368813.4578}}
+DEBUG - 2016-10-25 06:13:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.5948,"loading_time:_base_classes_start":1477368813.5948,"loading_time:_base_classes_end":1477368813.6108,"controller_execution_time_( Demo \/ email )_start":1477368813.6118}}
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.5948,"loading_time:_base_classes_start":1477368813.5948,"loading_time:_base_classes_end":1477368813.6108,"controller_execution_time_( Demo \/ email )_start":1477368813.6118}}
+DEBUG - 2016-10-25 06:13:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:33 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.7558,"loading_time:_base_classes_start":1477368813.7558,"loading_time:_base_classes_end":1477368813.7728,"controller_execution_time_( Demo \/ email )_start":1477368813.7748}}
+DEBUG - 2016-10-25 06:13:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368813.7558,"loading_time:_base_classes_start":1477368813.7558,"loading_time:_base_classes_end":1477368813.7728,"controller_execution_time_( Demo \/ email )_start":1477368813.7748}}
+DEBUG - 2016-10-25 06:13:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:13:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:13:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:13:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:13:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368829.0083,"loading_time:_base_classes_start":1477368829.0083,"loading_time:_base_classes_end":1477368829.0233,"controller_execution_time_( Demo \/ email )_start":1477368829.0243}}
+DEBUG - 2016-10-25 06:13:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477368829.0083,"loading_time:_base_classes_start":1477368829.0083,"loading_time:_base_classes_end":1477368829.0233,"controller_execution_time_( Demo \/ email )_start":1477368829.0243}}
+DEBUG - 2016-10-25 06:22:41 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:22:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:22:41 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:22:41 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:22:41 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369361.0271,"loading_time:_base_classes_start":1477369361.0271,"loading_time:_base_classes_end":1477369361.0441,"controller_execution_time_( Demo \/ email )_start":1477369361.0461}}
+DEBUG - 2016-10-25 06:22:41 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369361.0271,"loading_time:_base_classes_start":1477369361.0271,"loading_time:_base_classes_end":1477369361.0441,"controller_execution_time_( Demo \/ email )_start":1477369361.0461}}
+DEBUG - 2016-10-25 06:24:55 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:24:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:24:55 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:24:55 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:24:55 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369495.5251,"loading_time:_base_classes_start":1477369495.5251,"loading_time:_base_classes_end":1477369495.5461,"controller_execution_time_( Demo \/ email )_start":1477369495.5471}}
+DEBUG - 2016-10-25 06:24:55 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369495.5251,"loading_time:_base_classes_start":1477369495.5251,"loading_time:_base_classes_end":1477369495.5461,"controller_execution_time_( Demo \/ email )_start":1477369495.5471}}
+DEBUG - 2016-10-25 06:26:05 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:26:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:26:05 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:26:05 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:26:05 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369565.5921,"loading_time:_base_classes_start":1477369565.5921,"loading_time:_base_classes_end":1477369565.6091,"controller_execution_time_( Demo \/ email )_start":1477369565.6111}}
+DEBUG - 2016-10-25 06:26:05 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369565.5921,"loading_time:_base_classes_start":1477369565.5921,"loading_time:_base_classes_end":1477369565.6091,"controller_execution_time_( Demo \/ email )_start":1477369565.6111}}
+DEBUG - 2016-10-25 06:26:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:26:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:26:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:26:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:26:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369609.6551,"loading_time:_base_classes_start":1477369609.6551,"loading_time:_base_classes_end":1477369609.6721,"controller_execution_time_( Demo \/ email )_start":1477369609.6731}}
+DEBUG - 2016-10-25 06:26:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369609.6551,"loading_time:_base_classes_start":1477369609.6551,"loading_time:_base_classes_end":1477369609.6721,"controller_execution_time_( Demo \/ email )_start":1477369609.6731}}
+DEBUG - 2016-10-25 06:27:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:27:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:27:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:27:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:27:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369652.9161,"loading_time:_base_classes_start":1477369652.9161,"loading_time:_base_classes_end":1477369652.9441,"controller_execution_time_( Demo \/ email )_start":1477369652.9461}}
+DEBUG - 2016-10-25 06:27:33 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369652.9161,"loading_time:_base_classes_start":1477369652.9161,"loading_time:_base_classes_end":1477369652.9441,"controller_execution_time_( Demo \/ email )_start":1477369652.9461}}
+DEBUG - 2016-10-25 06:27:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:27:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:27:40 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:27:40 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:27:40 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369660.3461,"loading_time:_base_classes_start":1477369660.3461,"loading_time:_base_classes_end":1477369660.3641,"controller_execution_time_( Demo \/ email )_start":1477369660.3661}}
+DEBUG - 2016-10-25 06:27:40 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369660.3461,"loading_time:_base_classes_start":1477369660.3461,"loading_time:_base_classes_end":1477369660.3641,"controller_execution_time_( Demo \/ email )_start":1477369660.3661}}
+DEBUG - 2016-10-25 06:28:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 06:28:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 06:28:04 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 06:28:04 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 06:28:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369684.8451,"loading_time:_base_classes_start":1477369684.8451,"loading_time:_base_classes_end":1477369684.8621,"controller_execution_time_( Demo \/ email )_start":1477369684.8631}}
+DEBUG - 2016-10-25 06:28:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477369684.8451,"loading_time:_base_classes_start":1477369684.8451,"loading_time:_base_classes_end":1477369684.8621,"controller_execution_time_( Demo \/ email )_start":1477369684.8631}}
+DEBUG - 2016-10-25 07:04:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:04:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:04:37 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 07:04:37 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 07:04:37 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477371877.5156,"loading_time:_base_classes_start":1477371877.5156,"loading_time:_base_classes_end":1477371877.5356,"controller_execution_time_( Demo \/ email )_start":1477371877.5376}}
+DEBUG - 2016-10-25 07:04:37 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477371877.5156,"loading_time:_base_classes_start":1477371877.5156,"loading_time:_base_classes_end":1477371877.5356,"controller_execution_time_( Demo \/ email )_start":1477371877.5376}}
+DEBUG - 2016-10-25 07:06:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:06:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:06:33 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:06:33 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 07:06:34 --> Severity: Error --> Call to a member function config() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\libraries\Mail.php 21
+DEBUG - 2016-10-25 07:09:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:09:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:09:21 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:09:25 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:09:26 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372161.1691,"loading_time:_base_classes_start":1477372161.1691,"loading_time:_base_classes_end":1477372161.1881,"controller_execution_time_( Demo \/ email )_start":1477372161.1901}}
+DEBUG - 2016-10-25 07:09:26 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372161.1691,"loading_time:_base_classes_start":1477372161.1691,"loading_time:_base_classes_end":1477372161.1881,"controller_execution_time_( Demo \/ email )_start":1477372161.1901}}
+DEBUG - 2016-10-25 07:11:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:11:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:11:49 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:50 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:51 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:51 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:51 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:52 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:52 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:52 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:52 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:11:52 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372309.3284,"loading_time:_base_classes_start":1477372309.3284,"loading_time:_base_classes_end":1477372309.3484,"controller_execution_time_( Demo \/ email )_start":1477372309.3504}}
+DEBUG - 2016-10-25 07:11:52 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372309.3284,"loading_time:_base_classes_start":1477372309.3284,"loading_time:_base_classes_end":1477372309.3484,"controller_execution_time_( Demo \/ email )_start":1477372309.3504}}
+DEBUG - 2016-10-25 07:12:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:12:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:12:02 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 07:12:02 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 07:12:02 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:12:02 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:12:02 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372322.4063,"loading_time:_base_classes_start":1477372322.4063,"loading_time:_base_classes_end":1477372322.4213,"controller_execution_time_( Demo \/ email )_start":1477372322.4233}}
+DEBUG - 2016-10-25 07:12:02 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372322.4063,"loading_time:_base_classes_start":1477372322.4063,"loading_time:_base_classes_end":1477372322.4213,"controller_execution_time_( Demo \/ email )_start":1477372322.4233}}
+DEBUG - 2016-10-25 07:12:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:12:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:12:45 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 07:12:45 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 07:12:45 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:12:46 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 07:12:46 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372365.7663,"loading_time:_base_classes_start":1477372365.7663,"loading_time:_base_classes_end":1477372365.7833,"controller_execution_time_( Demo \/ email )_start":1477372365.7843}}
+DEBUG - 2016-10-25 07:12:46 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372365.7663,"loading_time:_base_classes_start":1477372365.7663,"loading_time:_base_classes_end":1477372365.7833,"controller_execution_time_( Demo \/ email )_start":1477372365.7843}}
+DEBUG - 2016-10-25 07:23:08 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:23:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:23:08 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 07:23:08 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 07:23:09 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372988.54,"loading_time:_base_classes_start":1477372988.54,"loading_time:_base_classes_end":1477372988.561,"controller_execution_time_( Demo \/ email )_start":1477372988.563}}
+DEBUG - 2016-10-25 07:23:09 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477372988.54,"loading_time:_base_classes_start":1477372988.54,"loading_time:_base_classes_end":1477372988.561,"controller_execution_time_( Demo \/ email )_start":1477372988.563}}
+DEBUG - 2016-10-25 07:25:12 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:25:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 07:25:12 --> Severity: Error --> Class 'Base_Interface' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\interface\Group_interface.php 8
+DEBUG - 2016-10-25 07:27:03 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:27:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:27:03 --> cURL Class Initialized
+DEBUG - 2016-10-25 07:27:03 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477373223.8966,"loading_time:_base_classes_start":1477373223.8966,"loading_time:_base_classes_end":1477373223.9116,"controller_execution_time_( Inter \/ demo )_start":1477373223.9136}}
+DEBUG - 2016-10-25 07:50:48 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 07:50:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 07:50:48 --> cURL Class Initialized
+DEBUG - 2016-10-25 07:50:48 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477374648.304,"loading_time:_base_classes_start":1477374648.304,"loading_time:_base_classes_end":1477374648.322,"controller_execution_time_( Inter \/ demo )_start":1477374648.324}}
+DEBUG - 2016-10-25 08:18:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:18:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:18:20 --> cURL Class Initialized
+DEBUG - 2016-10-25 08:18:20 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477376300.2962,"loading_time:_base_classes_start":1477376300.2962,"loading_time:_base_classes_end":1477376300.3142,"controller_execution_time_( Inter \/ demo )_start":1477376300.3152}}
+DEBUG - 2016-10-25 08:18:28 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:18:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:18:28 --> cURL Class Initialized
+ERROR - 2016-10-25 08:18:28 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 15
+DEBUG - 2016-10-25 08:29:30 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:29:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:29:30 --> cURL Class Initialized
+DEBUG - 2016-10-25 08:29:31 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:29:31 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:29:31 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:29:33 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477376970.8172,"loading_time:_base_classes_start":1477376970.8172,"loading_time:_base_classes_end":1477376970.8342,"controller_execution_time_( Inter \/ demo )_start":1477376970.8352}}
+DEBUG - 2016-10-25 08:29:47 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:29:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:29:47 --> cURL Class Initialized
+DEBUG - 2016-10-25 08:29:48 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:29:48 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477376987.6509,"loading_time:_base_classes_start":1477376987.6509,"loading_time:_base_classes_end":1477376987.6669,"controller_execution_time_( Inter \/ demo )_start":1477376987.6679}}
+DEBUG - 2016-10-25 08:31:59 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:31:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:31:59 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:31:59 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 08:31:59 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:31:59 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:32:00 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 08:32:00 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 21
+DEBUG - 2016-10-25 08:33:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:33:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 08:33:02 --> Severity: Error --> Class 'CI_Model' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 9
+DEBUG - 2016-10-25 08:33:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:33:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 08:33:25 --> Severity: Error --> Class 'Base_Model' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 9
+DEBUG - 2016-10-25 08:36:36 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:36:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:36:36 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:36:36 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 08:36:36 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 08:36:36 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 26
+DEBUG - 2016-10-25 08:37:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:37:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:37:04 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:37:04 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 08:37:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477377424.6044,"loading_time:_base_classes_start":1477377424.6044,"loading_time:_base_classes_end":1477377424.6254,"controller_execution_time_( Demo \/ email )_start":1477377424.6264}}
+DEBUG - 2016-10-25 08:37:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:37:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:37:21 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:37:21 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 08:37:21 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:37:21 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 08:37:21 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477377441.1504,"loading_time:_base_classes_start":1477377441.1514,"loading_time:_base_classes_end":1477377441.1744,"controller_execution_time_( Demo \/ email )_start":1477377441.1754}}
+DEBUG - 2016-10-25 08:37:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:37:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:37:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:37:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 08:37:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477377469.7064,"loading_time:_base_classes_start":1477377469.7064,"loading_time:_base_classes_end":1477377469.7274,"controller_execution_time_( Demo \/ email )_start":1477377469.7294}}
+DEBUG - 2016-10-25 08:38:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:38:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:38:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:38:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 08:38:27 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 27
+DEBUG - 2016-10-25 08:38:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 08:38:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 08:38:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 08:38:49 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 08:38:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477377529.7554,"loading_time:_base_classes_start":1477377529.7554,"loading_time:_base_classes_end":1477377529.7714,"controller_execution_time_( Demo \/ email )_start":1477377529.7734}}
+DEBUG - 2016-10-25 09:40:23 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:40:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:40:23 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 09:40:23 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 09:40:23 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 09:40:24 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 29
+DEBUG - 2016-10-25 09:42:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:42:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:42:31 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:43:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:43:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:43:07 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477381387.8106,"loading_time:_base_classes_start":1477381387.8106,"loading_time:_base_classes_end":1477381387.8296,"controller_execution_time_( Demo \/ email )_start":1477381387.8306}}
+DEBUG - 2016-10-25 09:43:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:43:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:43:40 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:43:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:43:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:43:43 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:44:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:44:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:44:16 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:44:17 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:44:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:44:17 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:44:17 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:44:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:44:17 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:44:17 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:44:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:44:17 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:44:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:44:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:44:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 09:44:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 09:44:32 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477381472.9306,"loading_time:_base_classes_start":1477381472.9306,"loading_time:_base_classes_end":1477381472.9506,"controller_execution_time_( Demo \/ email )_start":1477381472.9526}}
+DEBUG - 2016-10-25 09:44:38 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:44:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:44:38 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:45:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:45:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:45:26 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477381526.5454,"loading_time:_base_classes_start":1477381526.5454,"loading_time:_base_classes_end":1477381526.5664,"controller_execution_time_( Demo \/ email )_start":1477381526.5684}}
+DEBUG - 2016-10-25 09:45:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:45:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:45:32 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:45:51 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:45:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:45:51 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:46:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:46:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:46:00 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 09:46:00 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 09:46:00 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477381560.0607,"loading_time:_base_classes_start":1477381560.0607,"loading_time:_base_classes_end":1477381560.0797,"controller_execution_time_( Demo \/ email )_start":1477381560.0817}}
+DEBUG - 2016-10-25 09:46:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:46:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:46:22 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:46:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:46:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:46:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 09:46:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 09:46:32 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477381591.9699,"loading_time:_base_classes_start":1477381591.9699,"loading_time:_base_classes_end":1477381591.9949,"controller_execution_time_( Demo \/ email )_start":1477381591.9969}}
+DEBUG - 2016-10-25 09:48:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:48:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:48:25 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:49:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:49:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:49:49 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:52:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:52:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:52:22 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477381942.375,"loading_time:_base_classes_start":1477381942.375,"loading_time:_base_classes_end":1477381942.393,"controller_execution_time_( Demo \/ email )_start":1477381942.395}}
+DEBUG - 2016-10-25 09:53:24 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:53:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:53:25 --> cURL Class Initialized
+DEBUG - 2016-10-25 09:53:25 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382004.9902,"loading_time:_base_classes_start":1477382004.9902,"loading_time:_base_classes_end":1477382005.0072,"controller_execution_time_( Demo \/ email )_start":1477382005.0082}}
+DEBUG - 2016-10-25 09:54:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:54:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 09:54:19 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 09:54:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:54:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:54:43 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 09:54:43 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 09:54:43 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382083.4281,"loading_time:_base_classes_start":1477382083.4281,"loading_time:_base_classes_end":1477382083.4501,"controller_execution_time_( Demo \/ email )_start":1477382083.4521}}
+DEBUG - 2016-10-25 09:54:56 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:54:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:54:56 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 09:54:56 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 09:54:56 --> Total execution time: 0.5541
+DEBUG - 2016-10-25 09:54:56 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382096.3474,"loading_time:_base_classes_start":1477382096.3474,"loading_time:_base_classes_end":1477382096.3714,"controller_execution_time_( Demo \/ email )_start":1477382096.3724,"controller_execution_time_( Demo \/ email )_end":1477382096.9014,"total_execution_time_end":1477382096.9014}}
+DEBUG - 2016-10-25 09:57:01 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:57:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:57:01 --> cURL Class Initialized
+DEBUG - 2016-10-25 09:57:02 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 09:57:03 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382221.9329,"loading_time:_base_classes_start":1477382221.9329,"loading_time:_base_classes_end":1477382221.9469,"controller_execution_time_( Inter \/ demo )_start":1477382221.9479}}
+DEBUG - 2016-10-25 09:58:09 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:58:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:58:09 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382289.5077,"loading_time:_base_classes_start":1477382289.5077,"loading_time:_base_classes_end":1477382289.5257,"controller_execution_time_( Inter \/ demo )_start":1477382289.5267}}
+DEBUG - 2016-10-25 09:58:36 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:58:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:58:36 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382316.5914,"loading_time:_base_classes_start":1477382316.5914,"loading_time:_base_classes_end":1477382316.6114,"controller_execution_time_( Inter \/ demo )_start":1477382316.6124}}
+DEBUG - 2016-10-25 09:58:51 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:58:51 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382331.4139,"loading_time:_base_classes_start":1477382331.4139,"loading_time:_base_classes_end":1477382331.4379,"controller_execution_time_( Inter \/ demo )_start":1477382331.4389}}
+DEBUG - 2016-10-25 09:59:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:59:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:59:07 --> cURL Class Initialized
+DEBUG - 2016-10-25 09:59:09 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 09:59:10 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382347.2945,"loading_time:_base_classes_start":1477382347.2945,"loading_time:_base_classes_end":1477382347.3155,"controller_execution_time_( Inter \/ demo )_start":1477382347.3175}}
+DEBUG - 2016-10-25 09:59:15 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 09:59:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 09:59:15 --> cURL Class Initialized
+DEBUG - 2016-10-25 09:59:16 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 09:59:17 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477382355.6073,"loading_time:_base_classes_start":1477382355.6073,"loading_time:_base_classes_end":1477382355.6283,"controller_execution_time_( Inter \/ demo )_start":1477382355.6293}}
+DEBUG - 2016-10-25 10:19:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:19:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:19:33 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:19:33 --> Curl class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:19:33 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 26
+DEBUG - 2016-10-25 10:19:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:19:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:19:45 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:19:45 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477383585.0582,"loading_time:_base_classes_start":1477383585.0582,"loading_time:_base_classes_end":1477383585.0752,"controller_execution_time_( Demo \/ email )_start":1477383585.0762}}
+DEBUG - 2016-10-25 10:20:09 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:20:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:20:09 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:20:09 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:20:09 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477383609.5647,"loading_time:_base_classes_start":1477383609.5647,"loading_time:_base_classes_end":1477383609.5817,"controller_execution_time_( Demo \/ email )_start":1477383609.5837}}
+DEBUG - 2016-10-25 10:26:08 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:26:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:26:08 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:26:08 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:26:08 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477383968.0655,"loading_time:_base_classes_start":1477383968.0655,"loading_time:_base_classes_end":1477383968.0885,"controller_execution_time_( Demo \/ email )_start":1477383968.0895}}
+DEBUG - 2016-10-25 10:26:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:26:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:26:21 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:26:21 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477383981.4109,"loading_time:_base_classes_start":1477383981.4109,"loading_time:_base_classes_end":1477383981.4419,"controller_execution_time_( Demo \/ email )_start":1477383981.4439}}
+DEBUG - 2016-10-25 10:26:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:26:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:26:49 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:26:49 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:26:49 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384009.1236,"loading_time:_base_classes_start":1477384009.1236,"loading_time:_base_classes_end":1477384009.1396,"controller_execution_time_( Demo \/ email )_start":1477384009.1416}}
+DEBUG - 2016-10-25 10:27:59 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:28:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:28:00 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384079.9837,"loading_time:_base_classes_start":1477384079.9837,"loading_time:_base_classes_end":1477384080.0027,"controller_execution_time_( Demo \/ email )_start":1477384080.0037}}
+DEBUG - 2016-10-25 10:28:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:28:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:28:49 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:28:49 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:28:50 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384129.5257,"loading_time:_base_classes_start":1477384129.5257,"loading_time:_base_classes_end":1477384129.5417,"controller_execution_time_( Demo \/ email )_start":1477384129.5437}}
+DEBUG - 2016-10-25 10:29:38 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:29:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:29:38 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384178.3906,"loading_time:_base_classes_start":1477384178.3906,"loading_time:_base_classes_end":1477384178.4076,"controller_execution_time_( Demo \/ email )_start":1477384178.4086}}
+DEBUG - 2016-10-25 10:31:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:31:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:31:19 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:31:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384279.2827,"loading_time:_base_classes_start":1477384279.2827,"loading_time:_base_classes_end":1477384279.3037,"controller_execution_time_( Demo \/ email )_start":1477384279.3047}}
+DEBUG - 2016-10-25 10:31:29 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:31:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:31:29 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:31:29 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:31:29 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384289.0806,"loading_time:_base_classes_start":1477384289.0806,"loading_time:_base_classes_end":1477384289.1016,"controller_execution_time_( Demo \/ email )_start":1477384289.1026}}
+DEBUG - 2016-10-25 10:31:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:31:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:31:35 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:31:35 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384295.1952,"loading_time:_base_classes_start":1477384295.1952,"loading_time:_base_classes_end":1477384295.2182,"controller_execution_time_( Demo \/ email )_start":1477384295.2192}}
+DEBUG - 2016-10-25 10:32:03 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:32:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:32:03 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:32:03 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384323.4741,"loading_time:_base_classes_start":1477384323.4741,"loading_time:_base_classes_end":1477384323.4911,"controller_execution_time_( Demo \/ email )_start":1477384323.4941}}
+DEBUG - 2016-10-25 10:32:03 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384323.4741,"loading_time:_base_classes_start":1477384323.4741,"loading_time:_base_classes_end":1477384323.4911,"controller_execution_time_( Demo \/ email )_start":1477384323.4941}}
+DEBUG - 2016-10-25 10:32:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:32:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:32:04 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:32:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384324.7782,"loading_time:_base_classes_start":1477384324.7782,"loading_time:_base_classes_end":1477384324.7942,"controller_execution_time_( Demo \/ email )_start":1477384324.7952}}
+DEBUG - 2016-10-25 10:32:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384324.7782,"loading_time:_base_classes_start":1477384324.7782,"loading_time:_base_classes_end":1477384324.7942,"controller_execution_time_( Demo \/ email )_start":1477384324.7952}}
+DEBUG - 2016-10-25 10:32:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:32:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:32:07 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:32:07 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384327.0844,"loading_time:_base_classes_start":1477384327.0844,"loading_time:_base_classes_end":1477384327.1074,"controller_execution_time_( Demo \/ email )_start":1477384327.1094}}
+DEBUG - 2016-10-25 10:32:07 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384327.0844,"loading_time:_base_classes_start":1477384327.0844,"loading_time:_base_classes_end":1477384327.1074,"controller_execution_time_( Demo \/ email )_start":1477384327.1094}}
+DEBUG - 2016-10-25 10:32:08 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:32:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:32:08 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:32:08 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384328.9366,"loading_time:_base_classes_start":1477384328.9366,"loading_time:_base_classes_end":1477384328.9546,"controller_execution_time_( Demo \/ email )_start":1477384328.9556}}
+DEBUG - 2016-10-25 10:32:08 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384328.9366,"loading_time:_base_classes_start":1477384328.9366,"loading_time:_base_classes_end":1477384328.9546,"controller_execution_time_( Demo \/ email )_start":1477384328.9556}}
+DEBUG - 2016-10-25 10:32:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:32:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:32:16 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:32:16 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:32:16 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:32:18 --> Total execution time: 1.8602
+DEBUG - 2016-10-25 10:32:18 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384336.2243,"loading_time:_base_classes_start":1477384336.2243,"loading_time:_base_classes_end":1477384336.2443,"controller_execution_time_( Demo \/ email )_start":1477384336.2453,"controller_execution_time_( Demo \/ email )_end":1477384338.0845,"total_execution_time_end":1477384338.0845}}
+DEBUG - 2016-10-25 10:32:18 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384336.2243,"loading_time:_base_classes_start":1477384336.2243,"loading_time:_base_classes_end":1477384336.2443,"controller_execution_time_( Demo \/ email )_start":1477384336.2453,"controller_execution_time_( Demo \/ email )_end":1477384338.0845,"total_execution_time_end":1477384338.0845}}
+DEBUG - 2016-10-25 10:32:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:32:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:32:35 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:32:35 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384355.0592,"loading_time:_base_classes_start":1477384355.0592,"loading_time:_base_classes_end":1477384355.0752,"controller_execution_time_( Demo \/ email )_start":1477384355.0772}}
+DEBUG - 2016-10-25 10:32:35 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384355.0592,"loading_time:_base_classes_start":1477384355.0592,"loading_time:_base_classes_end":1477384355.0752,"controller_execution_time_( Demo \/ email )_start":1477384355.0772}}
+DEBUG - 2016-10-25 10:33:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:33:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:33:04 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:33:04 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384384.2351,"loading_time:_base_classes_start":1477384384.2351,"loading_time:_base_classes_end":1477384384.2521,"controller_execution_time_( Demo \/ email )_start":1477384384.2531}}
+DEBUG - 2016-10-25 10:33:05 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:33:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:33:05 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:33:05 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384385.5303,"loading_time:_base_classes_start":1477384385.5313,"loading_time:_base_classes_end":1477384385.5543,"controller_execution_time_( Demo \/ email )_start":1477384385.5563}}
+DEBUG - 2016-10-25 10:33:05 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:33:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:33:05 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:33:05 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384385.9403,"loading_time:_base_classes_start":1477384385.9403,"loading_time:_base_classes_end":1477384385.9613,"controller_execution_time_( Demo \/ email )_start":1477384385.9633}}
+DEBUG - 2016-10-25 10:33:05 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:33:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:33:06 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:33:06 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384385.9713,"loading_time:_base_classes_start":1477384385.9713,"loading_time:_base_classes_end":1477384385.9903,"controller_execution_time_( Demo \/ email )_start":1477384385.9913}}
+DEBUG - 2016-10-25 10:33:06 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:33:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:33:06 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:33:06 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384386.3744,"loading_time:_base_classes_start":1477384386.3744,"loading_time:_base_classes_end":1477384386.3934,"controller_execution_time_( Demo \/ email )_start":1477384386.3944}}
+DEBUG - 2016-10-25 10:33:11 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:33:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:33:11 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:33:11 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:33:11 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:33:12 --> Total execution time: 0.3280
+DEBUG - 2016-10-25 10:33:12 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384391.7359,"loading_time:_base_classes_start":1477384391.7359,"loading_time:_base_classes_end":1477384391.7639,"controller_execution_time_( Demo \/ email )_start":1477384391.7649,"controller_execution_time_( Demo \/ email )_end":1477384392.0639,"total_execution_time_end":1477384392.0639}}
+DEBUG - 2016-10-25 10:34:15 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:34:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:34:15 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:34:15 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:34:15 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:34:15 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:34:16 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 24
+DEBUG - 2016-10-25 10:36:11 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:36:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:36:11 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:36:11 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:36:11 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:36:11 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:36:11 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 24
+DEBUG - 2016-10-25 10:36:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:36:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:36:32 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:36:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:36:32 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:36:32 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:36:32 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:38:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:38:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:38:45 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:38:45 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:38:45 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:38:45 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384725.4614,"loading_time:_base_classes_start":1477384725.4614,"loading_time:_base_classes_end":1477384725.4844,"controller_execution_time_( Demo \/ email )_start":1477384725.4854}}
+DEBUG - 2016-10-25 10:38:58 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:38:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:38:58 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:38:58 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:38:58 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:38:58 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:39:08 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384738.7324,"loading_time:_base_classes_start":1477384738.7324,"loading_time:_base_classes_end":1477384738.7534,"controller_execution_time_( Demo \/ email )_start":1477384738.7544}}
+DEBUG - 2016-10-25 10:39:34 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:39:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:39:34 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:39:34 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:39:34 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:39:34 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:39:40 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384774.2194,"loading_time:_base_classes_start":1477384774.2194,"loading_time:_base_classes_end":1477384774.2374,"controller_execution_time_( Demo \/ email )_start":1477384774.2394}}
+DEBUG - 2016-10-25 10:39:40 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384774.2194,"loading_time:_base_classes_start":1477384774.2194,"loading_time:_base_classes_end":1477384774.2374,"controller_execution_time_( Demo \/ email )_start":1477384774.2394}}
+DEBUG - 2016-10-25 10:39:46 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:39:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:39:46 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:39:46 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:39:46 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:39:46 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:39:46 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:39:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:39:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:39:57 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:39:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:39:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:39:57 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:39:59 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:12 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:12 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:12 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:12 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:12 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:13 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:13 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:13 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:13 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:13 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:13 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:13 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:13 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:14 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:14 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:14 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:14 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:14 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:14 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:14 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:14 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:14 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:14 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:14 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:14 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:26 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:26 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:26 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:26 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:26 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:26 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:27 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:27 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:27 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:27 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:40:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:40:27 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:40:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:40:27 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+ERROR - 2016-10-25 10:40:27 --> Severity: Error --> Call to a member function sendEmail() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_comhelper.php 23
+DEBUG - 2016-10-25 10:41:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:41:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:41:18 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:41:18 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:41:18 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:41:18 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:41:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384878.6614,"loading_time:_base_classes_start":1477384878.6614,"loading_time:_base_classes_end":1477384878.6814,"controller_execution_time_( Demo \/ email )_start":1477384878.6824}}
+DEBUG - 2016-10-25 10:41:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:41:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:41:26 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:41:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:41:26 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:41:26 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:41:26 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384886.0544,"loading_time:_base_classes_start":1477384886.0544,"loading_time:_base_classes_end":1477384886.0724,"controller_execution_time_( Demo \/ email )_start":1477384886.0744}}
+DEBUG - 2016-10-25 10:41:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:41:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:41:57 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:41:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:41:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:41:57 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:41:58 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:42:00 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:42:00 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384917.4774,"loading_time:_base_classes_start":1477384917.4774,"loading_time:_base_classes_end":1477384917.4924,"controller_execution_time_( Demo \/ email )_start":1477384917.4944}}
+DEBUG - 2016-10-25 10:42:11 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:42:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 10:42:11 --> Severity: Error --> Cannot access protected property Base_comhelper::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Loader.php 1290
+DEBUG - 2016-10-25 10:42:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:42:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:42:18 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:42:18 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:42:18 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:42:18 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477384938.8414,"loading_time:_base_classes_start":1477384938.8414,"loading_time:_base_classes_end":1477384938.8664,"controller_execution_time_( Demo \/ email )_start":1477384938.8684}}
+DEBUG - 2016-10-25 10:43:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:43:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:43:43 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:43:43 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:43:43 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:43:44 --> Total execution time: 0.9830
+DEBUG - 2016-10-25 10:43:44 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385023.3204,"loading_time:_base_classes_start":1477385023.3214,"loading_time:_base_classes_end":1477385023.3454,"controller_execution_time_( Demo \/ email )_start":1477385023.3474,"controller_execution_time_( Demo \/ email )_end":1477385024.3034,"total_execution_time_end":1477385024.3034}}
+DEBUG - 2016-10-25 10:44:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:44:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 10:44:13 --> Severity: Error --> Call to undefined method Inter::loadInterface() D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\controllers\Inter.php 16
+DEBUG - 2016-10-25 10:44:44 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:44:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:44:44 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:44:44 --> Curl class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:44:44 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 26
+DEBUG - 2016-10-25 10:45:08 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:45:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:45:08 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:45:08 --> Curl class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:45:08 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 26
+DEBUG - 2016-10-25 10:45:53 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:45:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:45:53 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:45:53 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385153.1624,"loading_time:_base_classes_start":1477385153.1624,"loading_time:_base_classes_end":1477385153.1814,"controller_execution_time_( Inter \/ demo )_start":1477385153.1824}}
+DEBUG - 2016-10-25 10:46:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:46:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:46:18 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:46:19 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385178.1574,"loading_time:_base_classes_start":1477385178.1574,"loading_time:_base_classes_end":1477385178.1754,"controller_execution_time_( Inter \/ demo )_start":1477385178.1764}}
+DEBUG - 2016-10-25 10:48:03 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:48:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:48:03 --> cURL Class Initialized
+ERROR - 2016-10-25 10:48:04 --> Severity: Error --> Call to a member function simple_get() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 21
+DEBUG - 2016-10-25 10:48:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:48:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:48:21 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:48:22 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 10:48:22 --> Severity: Error --> Call to a member function simple_get() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 21
+DEBUG - 2016-10-25 10:49:09 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:49:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:49:09 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:49:09 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385349.4434,"loading_time:_base_classes_start":1477385349.4434,"loading_time:_base_classes_end":1477385349.4594,"controller_execution_time_( Inter \/ demo )_start":1477385349.4604}}
+DEBUG - 2016-10-25 10:49:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:49:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:49:20 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:49:20 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385360.3124,"loading_time:_base_classes_start":1477385360.3124,"loading_time:_base_classes_end":1477385360.3304,"controller_execution_time_( Inter \/ demo )_start":1477385360.3314}}
+DEBUG - 2016-10-25 10:50:03 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:50:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:50:03 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:50:03 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385403.5374,"loading_time:_base_classes_start":1477385403.5374,"loading_time:_base_classes_end":1477385403.5564,"controller_execution_time_( Inter \/ demo )_start":1477385403.5574}}
+DEBUG - 2016-10-25 10:50:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:50:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:50:57 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:50:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:50:57 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:50:57 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385457.2754,"loading_time:_base_classes_start":1477385457.2754,"loading_time:_base_classes_end":1477385457.2934,"controller_execution_time_( Demo \/ email )_start":1477385457.2944}}
+DEBUG - 2016-10-25 10:51:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:51:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:51:19 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:51:19 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:51:19 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:51:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385478.9654,"loading_time:_base_classes_start":1477385478.9654,"loading_time:_base_classes_end":1477385478.9864,"controller_execution_time_( Demo \/ email )_start":1477385478.9884}}
+DEBUG - 2016-10-25 10:51:56 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:51:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:51:56 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:51:56 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:51:56 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385516.0194,"loading_time:_base_classes_start":1477385516.0194,"loading_time:_base_classes_end":1477385516.0404,"controller_execution_time_( Inter \/ demo )_start":1477385516.0414}}
+DEBUG - 2016-10-25 10:56:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:56:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:56:40 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:56:40 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 10:56:41 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385800.1974,"loading_time:_base_classes_start":1477385800.1974,"loading_time:_base_classes_end":1477385800.2134,"controller_execution_time_( Inter \/ demo )_start":1477385800.2154}}
+DEBUG - 2016-10-25 10:58:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:58:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:58:18 --> cURL Class Initialized
+ERROR - 2016-10-25 10:58:18 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 56
+DEBUG - 2016-10-25 10:58:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:58:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:58:22 --> cURL Class Initialized
+DEBUG - 2016-10-25 10:58:22 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 10:58:22 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 10:58:22 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477385902.845,"loading_time:_base_classes_start":1477385902.845,"loading_time:_base_classes_end":1477385902.862,"controller_execution_time_( Demo \/ email )_start":1477385902.864}}
+DEBUG - 2016-10-25 10:58:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 10:58:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 10:58:31 --> cURL Class Initialized
+ERROR - 2016-10-25 10:58:31 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 56
+DEBUG - 2016-10-25 11:00:05 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:00:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:00:06 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:00:07 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:00:07 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:00:07 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386005.3563,"loading_time:_base_classes_start":1477386005.3563,"loading_time:_base_classes_end":1477386005.3723,"controller_execution_time_( Inter \/ demo )_start":1477386005.3733}}
+DEBUG - 2016-10-25 11:00:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:00:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:00:26 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:00:26 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:00:26 --> Curl class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:00:26 --> Severity: Error --> Access to undeclared static property: Base_Interface::$mail D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 61
+DEBUG - 2016-10-25 11:01:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:01:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:01:32 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:33 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:33 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:01:33 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:34 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:01:37 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:40 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386091.9339,"loading_time:_base_classes_start":1477386091.9339,"loading_time:_base_classes_end":1477386091.9539,"controller_execution_time_( Inter \/ demo )_start":1477386091.9549}}
+DEBUG - 2016-10-25 11:01:40 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:01:40 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:41 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:42 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:01:42 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386097.0474,"loading_time:_base_classes_start":1477386097.0474,"loading_time:_base_classes_end":1477386097.0634,"controller_execution_time_( Inter \/ demo )_start":1477386097.0644}}
+DEBUG - 2016-10-25 11:04:52 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:04:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:04:52 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:04:54 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:04:54 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:04:56 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:04:57 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:04:57 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386292.534,"loading_time:_base_classes_start":1477386292.534,"loading_time:_base_classes_end":1477386292.555,"controller_execution_time_( Inter \/ demo )_start":1477386292.556}}
+DEBUG - 2016-10-25 11:05:08 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:05:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:05:12 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:13 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:05:13 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:14 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:14 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:14 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386308.1835,"loading_time:_base_classes_start":1477386308.1835,"loading_time:_base_classes_end":1477386308.2005,"controller_execution_time_( Inter \/ demo )_start":1477386308.2015}}
+DEBUG - 2016-10-25 11:05:26 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:05:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:05:27 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:30 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:05:30 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:33 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:35 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:05:35 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386326.7454,"loading_time:_base_classes_start":1477386326.7454,"loading_time:_base_classes_end":1477386326.7684,"controller_execution_time_( Inter \/ demo )_start":1477386326.7694}}
+DEBUG - 2016-10-25 11:09:56 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:09:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:09:56 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:02 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:10:02 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:10:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:10:02 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:10:02 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 11:10:02 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 11:10:02 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:02 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386596.2733,"loading_time:_base_classes_start":1477386596.2733,"loading_time:_base_classes_end":1477386596.2933,"controller_execution_time_( Inter \/ demo )_start":1477386596.2953}}
+DEBUG - 2016-10-25 11:10:03 --> Total execution time: 1.0361
+DEBUG - 2016-10-25 11:10:03 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386602.484,"loading_time:_base_classes_start":1477386602.484,"loading_time:_base_classes_end":1477386602.501,"controller_execution_time_( Demo \/ email )_start":1477386602.503,"controller_execution_time_( Demo \/ email )_end":1477386603.5201,"total_execution_time_end":1477386603.5201}}
+DEBUG - 2016-10-25 11:10:09 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:10:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:10:09 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:10 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:10:10 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:10 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:10 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386609.6377,"loading_time:_base_classes_start":1477386609.6377,"loading_time:_base_classes_end":1477386609.6537,"controller_execution_time_( Inter \/ demo )_start":1477386609.6557}}
+DEBUG - 2016-10-25 11:10:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:10:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:10:37 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:38 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:10:38 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:38 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:10:39 --> Severity: Error --> Undefined class constant 'curlcore' D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 33
+DEBUG - 2016-10-25 11:10:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:10:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:10:50 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:51 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:10:51 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:10:52 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:10:52 --> Severity: Error --> Access to undeclared static property: Base_Interface::$curlcore D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 33
+DEBUG - 2016-10-25 11:11:24 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:11:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:11:24 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:11:24 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:11:24 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:11:25 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:11:25 --> Severity: Error --> Access to undeclared static property: Base_Interface::$curlcore D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 33
+DEBUG - 2016-10-25 11:12:08 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:12:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:12:08 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:12:09 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:12:09 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:12:09 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:12:09 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:12:10 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386728.2855,"loading_time:_base_classes_start":1477386728.2855,"loading_time:_base_classes_end":1477386728.3035,"controller_execution_time_( Inter \/ demo )_start":1477386728.3045}}
+DEBUG - 2016-10-25 11:12:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:12:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:12:25 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:12:25 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386745.6083,"loading_time:_base_classes_start":1477386745.6083,"loading_time:_base_classes_end":1477386745.6253,"controller_execution_time_( Inter \/ demo )_start":1477386745.6273}}
+DEBUG - 2016-10-25 11:12:39 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:12:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:12:39 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:12:39 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386759.1626,"loading_time:_base_classes_start":1477386759.1626,"loading_time:_base_classes_end":1477386759.1806,"controller_execution_time_( Inter \/ demo )_start":1477386759.1816}}
+DEBUG - 2016-10-25 11:12:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:12:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:12:50 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:12:51 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386770.9288,"loading_time:_base_classes_start":1477386770.9288,"loading_time:_base_classes_end":1477386770.9468,"controller_execution_time_( Inter \/ demo )_start":1477386770.9478}}
+DEBUG - 2016-10-25 11:13:41 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:13:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:13:41 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386821.4019,"loading_time:_base_classes_start":1477386821.4019,"loading_time:_base_classes_end":1477386821.4249,"controller_execution_time_( Inter \/ demo )_start":1477386821.4259}}
+DEBUG - 2016-10-25 11:14:10 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:14:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:14:10 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386850.2187,"loading_time:_base_classes_start":1477386850.2187,"loading_time:_base_classes_end":1477386850.2347,"controller_execution_time_( Inter \/ demo )_start":1477386850.2367}}
+DEBUG - 2016-10-25 11:15:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:07 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386907.7085,"loading_time:_base_classes_start":1477386907.7085,"loading_time:_base_classes_end":1477386907.7265,"controller_execution_time_( Inter \/ demo )_start":1477386907.7275}}
+DEBUG - 2016-10-25 11:15:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:35 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386935.1712,"loading_time:_base_classes_start":1477386935.1712,"loading_time:_base_classes_end":1477386935.1862,"controller_execution_time_( Inter \/ demo )_start":1477386935.1882}}
+DEBUG - 2016-10-25 11:15:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:35 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386935.8003,"loading_time:_base_classes_start":1477386935.8003,"loading_time:_base_classes_end":1477386935.8173,"controller_execution_time_( Inter \/ demo )_start":1477386935.8193}}
+DEBUG - 2016-10-25 11:15:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:35 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386935.9773,"loading_time:_base_classes_start":1477386935.9773,"loading_time:_base_classes_end":1477386935.9933,"controller_execution_time_( Inter \/ demo )_start":1477386935.9943}}
+DEBUG - 2016-10-25 11:15:36 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:36 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386936.1323,"loading_time:_base_classes_start":1477386936.1323,"loading_time:_base_classes_end":1477386936.1473,"controller_execution_time_( Inter \/ demo )_start":1477386936.1483}}
+DEBUG - 2016-10-25 11:15:42 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:42 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386942.897,"loading_time:_base_classes_start":1477386942.897,"loading_time:_base_classes_end":1477386942.913,"controller_execution_time_( Inter \/ demo )_start":1477386942.914}}
+DEBUG - 2016-10-25 11:15:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:15:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:15:43 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386943.8551,"loading_time:_base_classes_start":1477386943.8551,"loading_time:_base_classes_end":1477386943.8701,"controller_execution_time_( Inter \/ demo )_start":1477386943.8711}}
+DEBUG - 2016-10-25 11:16:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:16:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:16:02 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386962.372,"loading_time:_base_classes_start":1477386962.372,"loading_time:_base_classes_end":1477386962.387,"controller_execution_time_( Inter \/ demo )_start":1477386962.388}}
+DEBUG - 2016-10-25 11:16:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:16:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:16:13 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386973.5191,"loading_time:_base_classes_start":1477386973.5191,"loading_time:_base_classes_end":1477386973.5341,"controller_execution_time_( Inter \/ demo )_start":1477386973.5361}}
+DEBUG - 2016-10-25 11:16:17 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:16:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:16:17 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477386977.1024,"loading_time:_base_classes_start":1477386977.1024,"loading_time:_base_classes_end":1477386977.1194,"controller_execution_time_( Inter \/ demo )_start":1477386977.1204}}
+DEBUG - 2016-10-25 11:16:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:16:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:16:40 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387000.9528,"loading_time:_base_classes_start":1477387000.9528,"loading_time:_base_classes_end":1477387000.9738,"controller_execution_time_( Inter \/ demo )_start":1477387000.9758}}
+DEBUG - 2016-10-25 11:17:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:17:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:17:50 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387070.2167,"loading_time:_base_classes_start":1477387070.2167,"loading_time:_base_classes_end":1477387070.2317,"controller_execution_time_( Inter \/ demo )_start":1477387070.2327}}
+DEBUG - 2016-10-25 11:17:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:17:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:17:50 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387070.7608,"loading_time:_base_classes_start":1477387070.7608,"loading_time:_base_classes_end":1477387070.7758,"controller_execution_time_( Inter \/ demo )_start":1477387070.7768}}
+DEBUG - 2016-10-25 11:17:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:17:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:17:50 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387070.9588,"loading_time:_base_classes_start":1477387070.9588,"loading_time:_base_classes_end":1477387070.9798,"controller_execution_time_( Inter \/ demo )_start":1477387070.9818}}
+DEBUG - 2016-10-25 11:17:51 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:17:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:17:51 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387071.1408,"loading_time:_base_classes_start":1477387071.1408,"loading_time:_base_classes_end":1477387071.1608,"controller_execution_time_( Inter \/ demo )_start":1477387071.1628}}
+DEBUG - 2016-10-25 11:18:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:18:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:18:07 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:18:07 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387087.6835,"loading_time:_base_classes_start":1477387087.6835,"loading_time:_base_classes_end":1477387087.6995,"controller_execution_time_( Inter \/ demo )_start":1477387087.7005}}
+DEBUG - 2016-10-25 11:18:30 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:18:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:18:30 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:18:30 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:18:30 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387110.0877,"loading_time:_base_classes_start":1477387110.0877,"loading_time:_base_classes_end":1477387110.1057,"controller_execution_time_( Inter \/ demo )_start":1477387110.1077}}
+DEBUG - 2016-10-25 11:18:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:18:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:18:49 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:18:49 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:18:49 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387129.4927,"loading_time:_base_classes_start":1477387129.4927,"loading_time:_base_classes_end":1477387129.5127,"controller_execution_time_( Inter \/ demo )_start":1477387129.5137}}
+DEBUG - 2016-10-25 11:19:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:19:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:19:13 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:19:13 --> Curl class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:19:13 --> Severity: Error --> Access to undeclared static property: Base_Interface::$curl D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 33
+DEBUG - 2016-10-25 11:19:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:19:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:19:25 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:19:25 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:19:25 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387165.4203,"loading_time:_base_classes_start":1477387165.4203,"loading_time:_base_classes_end":1477387165.4353,"controller_execution_time_( Inter \/ demo )_start":1477387165.4363}}
+DEBUG - 2016-10-25 11:22:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:22:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:22:04 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:05 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:06 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:07 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:07 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387324.2891,"loading_time:_base_classes_start":1477387324.2891,"loading_time:_base_classes_end":1477387324.3101,"controller_execution_time_( Inter \/ demo )_start":1477387324.3121}}
+DEBUG - 2016-10-25 11:22:56 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:22:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:22:56 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:58 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:58 --> HttpCurl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:58 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:22:58 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:23:00 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387376.2083,"loading_time:_base_classes_start":1477387376.2083,"loading_time:_base_classes_end":1477387376.2313,"controller_execution_time_( Inter \/ demo )_start":1477387376.2333}}
+DEBUG - 2016-10-25 11:24:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:24:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:24:14 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:24:15 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387454.6022,"loading_time:_base_classes_start":1477387454.6022,"loading_time:_base_classes_end":1477387454.6182,"controller_execution_time_( Inter \/ demo )_start":1477387454.6192}}
+DEBUG - 2016-10-25 11:24:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:24:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:24:36 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:24:38 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387475.8083,"loading_time:_base_classes_start":1477387475.8083,"loading_time:_base_classes_end":1477387475.8303,"controller_execution_time_( Inter \/ demo )_start":1477387475.8323}}
+DEBUG - 2016-10-25 11:24:46 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:24:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:24:46 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:24:47 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:24:47 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387486.2873,"loading_time:_base_classes_start":1477387486.2873,"loading_time:_base_classes_end":1477387486.3033,"controller_execution_time_( Inter \/ demo )_start":1477387486.3043}}
+DEBUG - 2016-10-25 11:25:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:25:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:25:22 --> cURL Class Initialized
+ERROR - 2016-10-25 11:25:22 --> Severity: Error --> Access to undeclared static property: Base_Interface::$baseController D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 27
+DEBUG - 2016-10-25 11:25:55 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:25:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:25:56 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:25:56 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:25:56 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:25:57 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387555.6213,"loading_time:_base_classes_start":1477387555.6213,"loading_time:_base_classes_end":1477387555.6453,"controller_execution_time_( Inter \/ demo )_start":1477387555.6473}}
+DEBUG - 2016-10-25 11:26:29 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:26:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:26:29 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:26:29 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:26:30 --> Severity: Error --> Class 'HttpCurl' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 20
+DEBUG - 2016-10-25 11:26:41 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:26:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:26:41 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:26:41 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:26:41 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:26:42 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387601.2708,"loading_time:_base_classes_start":1477387601.2708,"loading_time:_base_classes_end":1477387601.2898,"controller_execution_time_( Inter \/ demo )_start":1477387601.2918}}
+DEBUG - 2016-10-25 11:26:52 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:26:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:26:53 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:26:55 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:26:55 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:26:56 --> Total execution time: 3.5154
+DEBUG - 2016-10-25 11:26:56 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387612.748,"loading_time:_base_classes_start":1477387612.748,"loading_time:_base_classes_end":1477387612.766,"controller_execution_time_( Inter \/ demo )_start":1477387612.767,"controller_execution_time_( Inter \/ demo )_end":1477387616.2633,"total_execution_time_end":1477387616.2633}}
+DEBUG - 2016-10-25 11:27:53 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:27:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:27:58 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:27:59 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:27:59 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:27:59 --> Total execution time: 6.2106
+DEBUG - 2016-10-25 11:27:59 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387673.5311,"loading_time:_base_classes_start":1477387673.5311,"loading_time:_base_classes_end":1477387673.5481,"controller_execution_time_( Inter \/ demo )_start":1477387673.5491,"controller_execution_time_( Inter \/ demo )_end":1477387679.7417,"total_execution_time_end":1477387679.7417}}
+DEBUG - 2016-10-25 11:28:23 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:28:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:28:23 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477387703.14,"loading_time:_base_classes_start":1477387703.14,"loading_time:_base_classes_end":1477387703.161,"controller_execution_time_( Inter \/ demo )_start":1477387703.163}}
+DEBUG - 2016-10-25 11:31:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:31:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:31:27 --> Severity: Error --> Class 'CI_HttpCurl' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\system\core\Common.php 196
+DEBUG - 2016-10-25 11:37:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:37:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:37:22 --> Severity: Parsing Error --> syntax error, unexpected ''HttpCurl'' (T_CONSTANT_ENCAPSED_STRING) D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 19
+DEBUG - 2016-10-25 11:37:22 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477388242.758,"loading_time:_base_classes_start":1477388242.758,"loading_time:_base_classes_end":1477388242.773,"controller_execution_time_( Inter \/ demo )_start":1477388242.774}}
+DEBUG - 2016-10-25 11:37:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:37:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:37:37 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:37:38 --> Severity: Error --> Call to a member function add_package_path() on null D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 19
+DEBUG - 2016-10-25 11:38:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:38:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:38:28 --> Severity: Error --> Class 'HttpCurl' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 20
+DEBUG - 2016-10-25 11:43:24 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:43:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:43:24 --> Severity: Error --> Class 'HttpCurl' not found D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 20
+DEBUG - 2016-10-25 11:43:38 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:43:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:43:39 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:43:39 --> Total execution time: 0.2700
+DEBUG - 2016-10-25 11:43:39 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477388618.9916,"loading_time:_base_classes_start":1477388618.9916,"loading_time:_base_classes_end":1477388619.0086,"controller_execution_time_( Inter \/ demo )_start":1477388619.0106,"controller_execution_time_( Inter \/ demo )_end":1477388619.2616,"total_execution_time_end":1477388619.2616}}
+DEBUG - 2016-10-25 11:44:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:44:00 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:44:00 --> Total execution time: 0.0240
+DEBUG - 2016-10-25 11:44:00 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477388640.2727,"loading_time:_base_classes_start":1477388640.2727,"loading_time:_base_classes_end":1477388640.2897,"controller_execution_time_( Inter \/ demo )_start":1477388640.2907,"controller_execution_time_( Inter \/ demo )_end":1477388640.2967,"total_execution_time_end":1477388640.2967}}
+DEBUG - 2016-10-25 11:44:48 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:44:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:44:48 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:44:48 --> Total execution time: 0.0700
+DEBUG - 2016-10-25 11:44:48 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477388688.6356,"loading_time:_base_classes_start":1477388688.6356,"loading_time:_base_classes_end":1477388688.6516,"controller_execution_time_( Inter \/ demo )_start":1477388688.6526,"controller_execution_time_( Inter \/ demo )_end":1477388688.7056,"total_execution_time_end":1477388688.7056}}
+DEBUG - 2016-10-25 11:45:15 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:45:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:45:15 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:45:15 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477388715.8457,"loading_time:_base_classes_start":1477388715.8457,"loading_time:_base_classes_end":1477388715.8647,"controller_execution_time_( Inter \/ demo )_start":1477388715.8667}}
+DEBUG - 2016-10-25 11:48:15 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:48:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:48:15 --> cURL Class Initialized
+ERROR - 2016-10-25 11:48:15 --> Severity: Error --> Access to undeclared static property: Base_Interface::$url D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 20
+DEBUG - 2016-10-25 11:48:39 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:48:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:48:39 --> cURL Class Initialized
+ERROR - 2016-10-25 11:48:39 --> Severity: Error --> Access to undeclared static property: Base_Interface::$url D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Interface.php 20
+DEBUG - 2016-10-25 11:49:46 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:49:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:49:46 --> Severity: Compile Error --> Cannot redeclare non static Base_Interface::$curl as static Group_interface::$curl D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\interface\Group_interface.php 55
+DEBUG - 2016-10-25 11:50:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:50:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:50:16 --> Severity: Compile Error --> Cannot redeclare non static Base_Interface::$curl as static Group_interface::$curl D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\interface\Group_interface.php 55
+DEBUG - 2016-10-25 11:50:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:50:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-25 11:50:25 --> Severity: Compile Error --> Cannot redeclare non static Base_Interface::$curl as static Group_interface::$curl D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\interface\Group_interface.php 55
+DEBUG - 2016-10-25 11:51:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:51:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:51:20 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:51:20 --> Curl class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:51:21 --> PHPMailer class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:51:21 --> Severity: Error --> Access to undeclared static property: Group_interface::$curl D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Controller.php 107
+DEBUG - 2016-10-25 11:52:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:52:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:52:45 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:52:45 --> Curl class already loaded. Second attempt ignored.
+ERROR - 2016-10-25 11:52:45 --> Severity: Error --> Access to undeclared static property: Group_interface::$curl D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\core\Base_Controller.php 107
+DEBUG - 2016-10-25 11:53:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:53:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:53:49 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:53:49 --> Total execution time: 0.0360
+DEBUG - 2016-10-25 11:53:49 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389229.697,"loading_time:_base_classes_start":1477389229.697,"loading_time:_base_classes_end":1477389229.717,"controller_execution_time_( Inter \/ demo )_start":1477389229.718,"controller_execution_time_( Inter \/ demo )_end":1477389229.733,"total_execution_time_end":1477389229.733}}
+DEBUG - 2016-10-25 11:54:23 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:54:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:54:23 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:54:23 --> Total execution time: 0.0320
+DEBUG - 2016-10-25 11:54:23 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389263.9,"loading_time:_base_classes_start":1477389263.9,"loading_time:_base_classes_end":1477389263.918,"controller_execution_time_( Inter \/ demo )_start":1477389263.92,"controller_execution_time_( Inter \/ demo )_end":1477389263.932,"total_execution_time_end":1477389263.932}}
+DEBUG - 2016-10-25 11:54:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:54:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:54:37 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:54:37 --> Total execution time: 0.0420
+DEBUG - 2016-10-25 11:54:37 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389277.035,"loading_time:_base_classes_start":1477389277.035,"loading_time:_base_classes_end":1477389277.062,"controller_execution_time_( Inter \/ demo )_start":1477389277.063,"controller_execution_time_( Inter \/ demo )_end":1477389277.077,"total_execution_time_end":1477389277.077}}
+DEBUG - 2016-10-25 11:54:55 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:54:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:54:55 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:54:57 --> Total execution time: 1.5850
+DEBUG - 2016-10-25 11:54:57 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389295.748,"loading_time:_base_classes_start":1477389295.748,"loading_time:_base_classes_end":1477389295.771,"controller_execution_time_( Inter \/ demo )_start":1477389295.773,"controller_execution_time_( Inter \/ demo )_end":1477389297.333,"total_execution_time_end":1477389297.333}}
+DEBUG - 2016-10-25 11:55:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:55:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:55:13 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:55:13 --> Total execution time: 0.0320
+DEBUG - 2016-10-25 11:55:13 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389313.83,"loading_time:_base_classes_start":1477389313.83,"loading_time:_base_classes_end":1477389313.846,"controller_execution_time_( Inter \/ demo )_start":1477389313.848,"controller_execution_time_( Inter \/ demo )_end":1477389313.862,"total_execution_time_end":1477389313.862}}
+DEBUG - 2016-10-25 11:55:15 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:55:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:55:15 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:55:15 --> Total execution time: 0.0340
+DEBUG - 2016-10-25 11:55:15 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389315.399,"loading_time:_base_classes_start":1477389315.399,"loading_time:_base_classes_end":1477389315.416,"controller_execution_time_( Inter \/ demo )_start":1477389315.418,"controller_execution_time_( Inter \/ demo )_end":1477389315.433,"total_execution_time_end":1477389315.433}}
+DEBUG - 2016-10-25 11:55:24 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:55:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:55:24 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:55:24 --> Total execution time: 0.0610
+DEBUG - 2016-10-25 11:55:24 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389324.153,"loading_time:_base_classes_start":1477389324.153,"loading_time:_base_classes_end":1477389324.171,"controller_execution_time_( Inter \/ demo )_start":1477389324.173,"controller_execution_time_( Inter \/ demo )_end":1477389324.214,"total_execution_time_end":1477389324.214}}
+DEBUG - 2016-10-25 11:56:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:56:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:56:22 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:56:22 --> Total execution time: 0.0410
+DEBUG - 2016-10-25 11:56:22 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389382.08,"loading_time:_base_classes_start":1477389382.08,"loading_time:_base_classes_end":1477389382.097,"controller_execution_time_( Inter \/ demo )_start":1477389382.098,"controller_execution_time_( Inter \/ demo )_end":1477389382.121,"total_execution_time_end":1477389382.121}}
+DEBUG - 2016-10-25 11:56:42 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:56:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:56:43 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:56:43 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-10-25 11:56:43 --> Total execution time: 0.6110
+DEBUG - 2016-10-25 11:56:43 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389402.988,"loading_time:_base_classes_start":1477389402.988,"loading_time:_base_classes_end":1477389403.011,"controller_execution_time_( Inter \/ demo )_start":1477389403.012,"controller_execution_time_( Inter \/ demo )_end":1477389403.598,"total_execution_time_end":1477389403.599}}
+DEBUG - 2016-10-25 11:57:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 11:57:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 11:57:07 --> cURL Class Initialized
+DEBUG - 2016-10-25 11:57:07 --> Total execution time: 0.0390
+DEBUG - 2016-10-25 11:57:07 --> {"querySql":" ","queryTime":" ","uri":"inter\/demo","params":{"1":"inter","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389427.945,"loading_time:_base_classes_start":1477389427.945,"loading_time:_base_classes_end":1477389427.965,"controller_execution_time_( Inter \/ demo )_start":1477389427.967,"controller_execution_time_( Inter \/ demo )_end":1477389427.984,"total_execution_time_end":1477389427.984}}
+DEBUG - 2016-10-25 12:04:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:04:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:04:20 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:04:20 --> [http://m.caissa.com.cn/user/bindCoupon][post]=array (
+)
+DEBUG - 2016-10-25 12:04:21 --> [http://m.caissa.com.cn/user/bindCoupon][return]='{"status":502,"msg":"Parameter missing"}'
+DEBUG - 2016-10-25 12:04:21 --> Total execution time: 1.5990
+DEBUG - 2016-10-25 12:04:21 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389860.047,"loading_time:_base_classes_start":1477389860.047,"loading_time:_base_classes_end":1477389860.065,"controller_execution_time_( Inter \/ getLibCurl )_start":1477389860.066,"controller_execution_time_( Inter \/ getLibCurl )_end":1477389861.646,"total_execution_time_end":1477389861.646}}
+DEBUG - 2016-10-25 12:05:30 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:05:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:05:30 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:05:30 --> [groupapi.caissa.com.cn][post]=array (
+)
+DEBUG - 2016-10-25 12:05:31 --> [groupapi.caissa.com.cn][return]=false
+DEBUG - 2016-10-25 12:05:31 --> Total execution time: 0.1600
+DEBUG - 2016-10-25 12:05:31 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389930.895,"loading_time:_base_classes_start":1477389930.895,"loading_time:_base_classes_end":1477389930.913,"controller_execution_time_( Inter \/ getLibCurl )_start":1477389930.914,"controller_execution_time_( Inter \/ getLibCurl )_end":1477389931.055,"total_execution_time_end":1477389931.055}}
+DEBUG - 2016-10-25 12:05:47 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:05:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:05:47 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:05:47 --> [groupapi.caissa.com.cn/demo/json][post]=array (
+)
+DEBUG - 2016-10-25 12:05:47 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:05:47 --> Total execution time: 0.1750
+DEBUG - 2016-10-25 12:05:47 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389947.793,"loading_time:_base_classes_start":1477389947.793,"loading_time:_base_classes_end":1477389947.812,"controller_execution_time_( Inter \/ getLibCurl )_start":1477389947.813,"controller_execution_time_( Inter \/ getLibCurl )_end":1477389947.968,"total_execution_time_end":1477389947.968}}
+DEBUG - 2016-10-25 12:05:48 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:05:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:05:48 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:05:48 --> [groupapi.caissa.com.cn/demo/json][post]=array (
+)
+DEBUG - 2016-10-25 12:05:49 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:05:49 --> Total execution time: 0.1500
+DEBUG - 2016-10-25 12:05:49 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389948.877,"loading_time:_base_classes_start":1477389948.877,"loading_time:_base_classes_end":1477389948.902,"controller_execution_time_( Inter \/ getLibCurl )_start":1477389948.903,"controller_execution_time_( Inter \/ getLibCurl )_end":1477389949.027,"total_execution_time_end":1477389949.027}}
+DEBUG - 2016-10-25 12:06:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:06:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:06:16 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:06:16 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/email.php
+DEBUG - 2016-10-25 12:06:17 --> Config file loaded: D:\xampp\htdocs\caissa-sid-dev\group\api\branches\application\config/development\email.php
+DEBUG - 2016-10-25 12:06:17 --> Total execution time: 0.2430
+DEBUG - 2016-10-25 12:06:17 --> {"querySql":" ","queryTime":" ","uri":"demo\/email","params":{"1":"demo","2":"email"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477389976.97,"loading_time:_base_classes_start":1477389976.97,"loading_time:_base_classes_end":1477389976.987,"controller_execution_time_( Demo \/ email )_start":1477389976.988,"controller_execution_time_( Demo \/ email )_end":1477389977.213,"total_execution_time_end":1477389977.213}}
+DEBUG - 2016-10-25 12:07:10 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:07:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:07:10 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:07:10 --> [groupapi.caissa.com.cn/demo/json][post]=array (
+)
+DEBUG - 2016-10-25 12:07:10 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:07:10 --> Total execution time: 0.1330
+DEBUG - 2016-10-25 12:07:10 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390030.549,"loading_time:_base_classes_start":1477390030.549,"loading_time:_base_classes_end":1477390030.568,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390030.569,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390030.682,"total_execution_time_end":1477390030.682}}
+DEBUG - 2016-10-25 12:07:12 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:07:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:07:12 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:07:12 --> [groupapi.caissa.com.cn/demo/json][post]=array (
+)
+DEBUG - 2016-10-25 12:07:12 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:07:12 --> Total execution time: 0.1290
+DEBUG - 2016-10-25 12:07:12 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390032.117,"loading_time:_base_classes_start":1477390032.117,"loading_time:_base_classes_end":1477390032.132,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390032.133,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390032.246,"total_execution_time_end":1477390032.246}}
+DEBUG - 2016-10-25 12:07:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:07:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:07:43 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:07:43 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:07:43 --> Total execution time: 0.1650
+DEBUG - 2016-10-25 12:07:43 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390063.222,"loading_time:_base_classes_start":1477390063.222,"loading_time:_base_classes_end":1477390063.24,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390063.241,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390063.387,"total_execution_time_end":1477390063.387}}
+DEBUG - 2016-10-25 12:08:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:08:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:08:16 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:08:16 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390096.193,"loading_time:_base_classes_start":1477390096.193,"loading_time:_base_classes_end":1477390096.215,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390096.216}}
+DEBUG - 2016-10-25 12:08:46 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:08:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:08:46 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:08:46 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:08:46 --> Total execution time: 0.1410
+DEBUG - 2016-10-25 12:08:46 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390126.284,"loading_time:_base_classes_start":1477390126.284,"loading_time:_base_classes_end":1477390126.301,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390126.302,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390126.425,"total_execution_time_end":1477390126.425}}
+DEBUG - 2016-10-25 12:09:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:09:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:09:31 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:09:31 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:09:31 --> Total execution time: 0.1440
+DEBUG - 2016-10-25 12:09:31 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390171.513,"loading_time:_base_classes_start":1477390171.513,"loading_time:_base_classes_end":1477390171.53,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390171.531,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390171.657,"total_execution_time_end":1477390171.657}}
+DEBUG - 2016-10-25 12:09:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:09:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:09:50 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:10:03 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:10:03 --> Total execution time: 13.4370
+DEBUG - 2016-10-25 12:10:03 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390190.549,"loading_time:_base_classes_start":1477390190.549,"loading_time:_base_classes_end":1477390190.567,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390190.569,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390203.986,"total_execution_time_end":1477390203.986}}
+DEBUG - 2016-10-25 12:10:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:10:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:10:21 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:10:21 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:10:21 --> Total execution time: 0.1350
+DEBUG - 2016-10-25 12:10:21 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390221.342,"loading_time:_base_classes_start":1477390221.342,"loading_time:_base_classes_end":1477390221.359,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390221.36,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390221.477,"total_execution_time_end":1477390221.477}}
+DEBUG - 2016-10-25 12:10:59 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:10:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:10:59 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:10:59 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390259.712,"loading_time:_base_classes_start":1477390259.712,"loading_time:_base_classes_end":1477390259.73,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390259.731}}
+DEBUG - 2016-10-25 12:13:03 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:13:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:13:03 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:13:03 --> [groupapi.caissa.com.cn/demo/json][return]=false
+DEBUG - 2016-10-25 12:13:03 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390383.103,"loading_time:_base_classes_start":1477390383.103,"loading_time:_base_classes_end":1477390383.12,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390383.122}}
+DEBUG - 2016-10-25 12:14:52 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:14:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:14:52 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:14:52 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390492.641,"loading_time:_base_classes_start":1477390492.641,"loading_time:_base_classes_end":1477390492.657,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390492.658}}
+DEBUG - 2016-10-25 12:15:06 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:15:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:15:06 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:15:06 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390506.538,"loading_time:_base_classes_start":1477390506.538,"loading_time:_base_classes_end":1477390506.556,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390506.557}}
+DEBUG - 2016-10-25 12:15:28 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:15:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:15:28 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:15:28 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390528.182,"loading_time:_base_classes_start":1477390528.182,"loading_time:_base_classes_end":1477390528.2,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390528.202}}
+DEBUG - 2016-10-25 12:18:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:18:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:18:25 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:18:25 --> Total execution time: 0.0340
+DEBUG - 2016-10-25 12:18:25 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390705.584,"loading_time:_base_classes_start":1477390705.584,"loading_time:_base_classes_end":1477390705.608,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390705.61,"controller_execution_time_( Inter \/ getLibCurl )_end":1477390705.618,"total_execution_time_end":1477390705.618}}
+DEBUG - 2016-10-25 12:19:41 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:19:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:19:41 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:19:41 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390781.7784,"loading_time:_base_classes_start":1477390781.7784,"loading_time:_base_classes_end":1477390781.7994,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390781.8014}}
+DEBUG - 2016-10-25 12:20:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:20:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:20:20 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:20:20 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477390820.275,"loading_time:_base_classes_start":1477390820.275,"loading_time:_base_classes_end":1477390820.2951,"controller_execution_time_( Inter \/ getLibCurl )_start":1477390820.2961}}
+DEBUG - 2016-10-25 12:27:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:27:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:27:32 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:27:32 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/127.0.0.1\/","logLevel":2,"marker":{"total_execution_time_start":1477391252.2837,"loading_time:_base_classes_start":1477391252.2837,"loading_time:_base_classes_end":1477391252.3017,"controller_execution_time_( Inter \/ getLibCurl )_start":1477391252.3037}}
+DEBUG - 2016-10-25 12:28:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:28:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:28:22 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:28:22 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477391302.1927,"loading_time:_base_classes_start":1477391302.1927,"loading_time:_base_classes_end":1477391302.2097,"controller_execution_time_( Inter \/ getLibCurl )_start":1477391302.2107}}
+DEBUG - 2016-10-25 12:45:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:45:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:45:32 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:45:32 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392332.9268,"loading_time:_base_classes_start":1477392332.9268,"loading_time:_base_classes_end":1477392332.9448,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392332.9458}}
+DEBUG - 2016-10-25 12:45:41 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:45:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:45:41 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:45:41 --> [groupapi.caissa.com.cn/demo/json][return]='{"code":200,"data":{"a":"A","b":"B"},"msg":""}'
+DEBUG - 2016-10-25 12:45:41 --> Total execution time: 0.1140
+DEBUG - 2016-10-25 12:45:41 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392341.2526,"loading_time:_base_classes_start":1477392341.2526,"loading_time:_base_classes_end":1477392341.2706,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392341.2716,"controller_execution_time_( Inter \/ getLibCurl )_end":1477392341.3666,"total_execution_time_end":1477392341.3666}}
+DEBUG - 2016-10-25 12:47:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:47:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:47:14 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:47:14 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392434.3519,"loading_time:_base_classes_start":1477392434.3519,"loading_time:_base_classes_end":1477392434.3699,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392434.3709}}
+DEBUG - 2016-10-25 12:47:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:47:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:47:25 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:47:25 --> [groupapi.caissa.com.cn/demo/json][return]='{"code":200,"data":{"a":"A","b":"B"},"msg":""}'
+DEBUG - 2016-10-25 12:47:25 --> Total execution time: 0.0350
+DEBUG - 2016-10-25 12:47:25 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392445.58,"loading_time:_base_classes_start":1477392445.58,"loading_time:_base_classes_end":1477392445.599,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392445.6,"controller_execution_time_( Inter \/ getLibCurl )_end":1477392445.615,"total_execution_time_end":1477392445.615}}
+DEBUG - 2016-10-25 12:47:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:47:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:47:37 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:47:37 --> [groupapi.caissa.com.cn/demo/json][return]='{"code":200,"data":{"a":"A","b":"B"},"msg":""}'
+DEBUG - 2016-10-25 12:47:37 --> Total execution time: 0.0350
+DEBUG - 2016-10-25 12:47:37 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392457.1012,"loading_time:_base_classes_start":1477392457.1012,"loading_time:_base_classes_end":1477392457.1192,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392457.1202,"controller_execution_time_( Inter \/ getLibCurl )_end":1477392457.1362,"total_execution_time_end":1477392457.1362}}
+DEBUG - 2016-10-25 12:49:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:49:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:49:40 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:49:40 --> [groupapi.caissa.com.cn/demo/json][return]='{"code":200,"data":{"a":"A","b":"B"},"msg":""}'
+DEBUG - 2016-10-25 12:49:40 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392580.0685,"loading_time:_base_classes_start":1477392580.0685,"loading_time:_base_classes_end":1477392580.0905,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392580.0915}}
+DEBUG - 2016-10-25 12:49:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:49:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:49:49 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:49:50 --> [groupapi.caissa.com.cn/demo/json][return]='{"code":200,"data":{"a":"A","b":"B"},"msg":""}'
+DEBUG - 2016-10-25 12:49:50 --> Total execution time: 0.0360
+DEBUG - 2016-10-25 12:49:50 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392589.9665,"loading_time:_base_classes_start":1477392589.9665,"loading_time:_base_classes_end":1477392589.9865,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392589.9875,"controller_execution_time_( Inter \/ getLibCurl )_end":1477392590.0025,"total_execution_time_end":1477392590.0025}}
+DEBUG - 2016-10-25 12:50:36 --> UTF-8 Support Enabled
+DEBUG - 2016-10-25 12:50:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-25 12:50:36 --> cURL Class Initialized
+DEBUG - 2016-10-25 12:50:36 --> [groupapi.caissa.com.cn/demo/json][return]='{"code":200,"data":{"a":"A","b":"B"},"msg":""}'
+DEBUG - 2016-10-25 12:50:36 --> Total execution time: 0.0420
+DEBUG - 2016-10-25 12:50:36 --> {"querySql":" ","queryTime":" ","uri":"inter\/getLibCurl","params":{"1":"inter","2":"getLibCurl"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1477392636.7041,"loading_time:_base_classes_start":1477392636.7041,"loading_time:_base_classes_end":1477392636.7291,"controller_execution_time_( Inter \/ getLibCurl )_start":1477392636.7311,"controller_execution_time_( Inter \/ getLibCurl )_end":1477392636.7461,"total_execution_time_end":1477392636.7461}}

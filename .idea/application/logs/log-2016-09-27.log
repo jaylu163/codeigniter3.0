@@ -1,0 +1,4 @@
+DEBUG - 2016-09-27 03:57:18 --> UTF-8 Support Enabled
+DEBUG - 2016-09-27 03:57:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-27 03:57:18 --> Total execution time: 0.0190
+DEBUG - 2016-09-27 03:57:18 --> {"querySql":" ","queryTime":" ","uri":"demo\/json","params":{"1":"demo","2":"json"},"baseUrl":"http:\/\/127.0.0.1","logLevel":2,"marker":{"total_execution_time_start":1474941438.2493,"loading_time:_base_classes_start":1474941438.2493,"loading_time:_base_classes_end":1474941438.2663,"controller_execution_time_( Demo \/ json )_start":1474941438.2663,"controller_execution_time_( Demo \/ json )_end":1474941438.2683,"total_execution_time_end":1474941438.2683}}

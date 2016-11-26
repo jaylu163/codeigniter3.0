@@ -1,0 +1,51 @@
+DEBUG - 2016-11-26 03:32:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:32:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-26 03:32:10 --> Severity: Error --> Class 'Redis' not found E:\supplier\front\system\libraries\Session\drivers\Session_redis_driver.php 137
+DEBUG - 2016-11-26 03:32:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:32:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:32:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:32:20 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127540.2746,"loading_time:_base_classes_start":1480127540.2746,"loading_time:_base_classes_end":1480127540.2946,"controller_execution_time_( Order \/ orderlist )_start":1480127540.2956}}
+DEBUG - 2016-11-26 03:35:27 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:35:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:35:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:35:27 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127727.4849,"loading_time:_base_classes_start":1480127727.4849,"loading_time:_base_classes_end":1480127727.5039,"controller_execution_time_( Order \/ orderlist )_start":1480127727.5049}}
+DEBUG - 2016-11-26 03:35:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:35:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:35:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:35:28 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127728.5208,"loading_time:_base_classes_start":1480127728.5208,"loading_time:_base_classes_end":1480127728.5508,"controller_execution_time_( Order \/ orderlist )_start":1480127728.5518}}
+DEBUG - 2016-11-26 03:35:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:35:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:35:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:35:43 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127743.4243,"loading_time:_base_classes_start":1480127743.4243,"loading_time:_base_classes_end":1480127743.4463,"controller_execution_time_( Order \/ orderlist )_start":1480127743.4473}}
+DEBUG - 2016-11-26 03:35:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:35:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:35:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:35:44 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127744.2802,"loading_time:_base_classes_start":1480127744.2802,"loading_time:_base_classes_end":1480127744.3052,"controller_execution_time_( Order \/ orderlist )_start":1480127744.3072}}
+DEBUG - 2016-11-26 03:37:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:37:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:37:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:37:34 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127854.3922,"loading_time:_base_classes_start":1480127854.3922,"loading_time:_base_classes_end":1480127854.4272,"controller_execution_time_( Order \/ orderlist )_start":1480127854.4282}}
+DEBUG - 2016-11-26 03:37:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:37:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:37:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:37:35 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127855.3641,"loading_time:_base_classes_start":1480127855.3641,"loading_time:_base_classes_end":1480127855.3881,"controller_execution_time_( Order \/ orderlist )_start":1480127855.3901}}
+DEBUG - 2016-11-26 03:38:59 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:38:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:38:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:38:59 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127939.3487,"loading_time:_base_classes_start":1480127939.3487,"loading_time:_base_classes_end":1480127939.3727,"controller_execution_time_( Order \/ orderlist )_start":1480127939.3747}}
+DEBUG - 2016-11-26 03:39:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:39:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:39:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:39:31 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127971.4825,"loading_time:_base_classes_start":1480127971.4825,"loading_time:_base_classes_end":1480127971.5005,"controller_execution_time_( Order \/ orderlist )_start":1480127971.5025}}
+DEBUG - 2016-11-26 03:39:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:39:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:39:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:39:32 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480127972.3154,"loading_time:_base_classes_start":1480127972.3154,"loading_time:_base_classes_end":1480127972.3374,"controller_execution_time_( Order \/ orderlist )_start":1480127972.3384}}
+DEBUG - 2016-11-26 03:40:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:40:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:40:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:40:03 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480128003.4373,"loading_time:_base_classes_start":1480128003.4373,"loading_time:_base_classes_end":1480128003.4583,"controller_execution_time_( Order \/ orderlist )_start":1480128003.4593}}
+DEBUG - 2016-11-26 03:40:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-26 03:40:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-26 03:40:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-26 03:40:04 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1480128004.1633,"loading_time:_base_classes_start":1480128004.1633,"loading_time:_base_classes_end":1480128004.1853,"controller_execution_time_( Order \/ orderlist )_start":1480128004.1872}}

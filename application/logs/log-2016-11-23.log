@@ -1,0 +1,307 @@
+DEBUG - 2016-11-23 11:41:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:41:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:41:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:41:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:41:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:41:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:41:19 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:41:20 --> {"querySql":" ","queryTime":" ","uri":"login","params":{"1":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897678.8717,"loading_time:_base_classes_start":1479897678.8717,"loading_time:_base_classes_end":1479897678.8937,"controller_execution_time_( Login \/ index )_start":1479897678.8957}}
+DEBUG - 2016-11-23 11:42:16 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:42:16 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:42:17 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:42:17 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:42:17 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:42:17 --> PHPMailer class already loaded. Second attempt ignored.
+DEBUG - 2016-11-23 11:42:17 --> {"querySql":" ","queryTime":" ","uri":"login","params":{"1":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897736.6647,"loading_time:_base_classes_start":1479897736.6647,"loading_time:_base_classes_end":1479897736.6797,"controller_execution_time_( Login \/ index )_start":1479897736.6807}}
+DEBUG - 2016-11-23 11:42:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:42:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:42:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:42:51 --> Total execution time: 0.0610
+DEBUG - 2016-11-23 11:42:51 --> {"querySql":" ","queryTime":" ","uri":"login","params":{"1":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897771.1257,"loading_time:_base_classes_start":1479897771.1257,"loading_time:_base_classes_end":1479897771.1497,"controller_execution_time_( Login \/ index )_start":1479897771.1517,"controller_execution_time_( Login \/ index )_end":1479897771.1867,"total_execution_time_end":1479897771.1867}}
+DEBUG - 2016-11-23 11:42:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:42:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:42:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:42:51 --> Total execution time: 0.0670
+DEBUG - 2016-11-23 11:42:51 --> {"querySql":" ","queryTime":" ","uri":"login\/captcha","params":{"1":"login","2":"captcha"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897771.4477,"loading_time:_base_classes_start":1479897771.4477,"loading_time:_base_classes_end":1479897771.4707,"controller_execution_time_( Login \/ captcha )_start":1479897771.4727,"controller_execution_time_( Login \/ captcha )_end":1479897771.5147,"total_execution_time_end":1479897771.5147}}
+DEBUG - 2016-11-23 11:43:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:43:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:43:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:43:29 --> Total execution time: 0.0560
+DEBUG - 2016-11-23 11:43:29 --> {"querySql":" ","queryTime":" ","uri":"login\/login\/login","params":{"1":"login","2":"login","3":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897808.9997,"loading_time:_base_classes_start":1479897808.9997,"loading_time:_base_classes_end":1479897809.0157,"controller_execution_time_( Login \/ login )_start":1479897809.0167,"controller_execution_time_( Login \/ login )_end":1479897809.0557,"total_execution_time_end":1479897809.0557}}
+DEBUG - 2016-11-23 11:43:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:43:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:43:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:43:29 --> Total execution time: 0.0590
+DEBUG - 2016-11-23 11:43:29 --> {"querySql":" ","queryTime":" ","uri":"login\/captcha","params":{"1":"login","2":"captcha"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897809.0777,"loading_time:_base_classes_start":1479897809.0777,"loading_time:_base_classes_end":1479897809.0957,"controller_execution_time_( Login \/ captcha )_start":1479897809.0977,"controller_execution_time_( Login \/ captcha )_end":1479897809.1367,"total_execution_time_end":1479897809.1367}}
+DEBUG - 2016-11-23 11:43:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:43:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:43:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:43:44 --> Total execution time: 0.0770
+DEBUG - 2016-11-23 11:43:44 --> {"querySql":" ","queryTime":" ","uri":"login\/login\/login","params":{"1":"login","2":"login","3":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897824.7737,"loading_time:_base_classes_start":1479897824.7737,"loading_time:_base_classes_end":1479897824.8067,"controller_execution_time_( Login \/ login )_start":1479897824.8077,"controller_execution_time_( Login \/ login )_end":1479897824.8507,"total_execution_time_end":1479897824.8507}}
+DEBUG - 2016-11-23 11:43:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:43:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:43:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:43:44 --> Total execution time: 0.0550
+DEBUG - 2016-11-23 11:43:44 --> {"querySql":" ","queryTime":" ","uri":"login\/captcha","params":{"1":"login","2":"captcha"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897824.8647,"loading_time:_base_classes_start":1479897824.8647,"loading_time:_base_classes_end":1479897824.8797,"controller_execution_time_( Login \/ captcha )_start":1479897824.8817,"controller_execution_time_( Login \/ captcha )_end":1479897824.9197,"total_execution_time_end":1479897824.9197}}
+DEBUG - 2016-11-23 11:43:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:43:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:43:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:43:55 --> Total execution time: 0.0620
+DEBUG - 2016-11-23 11:43:55 --> {"querySql":" ","queryTime":" ","uri":"login\/login\/login","params":{"1":"login","2":"login","3":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897835.8677,"loading_time:_base_classes_start":1479897835.8677,"loading_time:_base_classes_end":1479897835.8857,"controller_execution_time_( Login \/ login )_start":1479897835.8877,"controller_execution_time_( Login \/ login )_end":1479897835.9297,"total_execution_time_end":1479897835.9297}}
+DEBUG - 2016-11-23 11:43:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:43:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:43:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:43:55 --> Total execution time: 0.0480
+DEBUG - 2016-11-23 11:43:55 --> {"querySql":" ","queryTime":" ","uri":"login\/captcha","params":{"1":"login","2":"captcha"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897835.9447,"loading_time:_base_classes_start":1479897835.9447,"loading_time:_base_classes_end":1479897835.9607,"controller_execution_time_( Login \/ captcha )_start":1479897835.9627,"controller_execution_time_( Login \/ captcha )_end":1479897835.9927,"total_execution_time_end":1479897835.9927}}
+DEBUG - 2016-11-23 11:44:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:44:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:44:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:44:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:44:12 --> Total execution time: 0.0510
+DEBUG - 2016-11-23 11:44:12 --> {"querySql":" ","queryTime":" ","uri":"login\/login\/login","params":{"1":"login","2":"login","3":"login"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897852.6017,"loading_time:_base_classes_start":1479897852.6017,"loading_time:_base_classes_end":1479897852.6197,"controller_execution_time_( Login \/ login )_start":1479897852.6207,"controller_execution_time_( Login \/ login )_end":1479897852.6527,"total_execution_time_end":1479897852.6527}}
+DEBUG - 2016-11-23 11:44:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:44:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 11:44:14 --> 404 Page Not Found: Home/index
+DEBUG - 2016-11-23 11:44:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:44:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:44:19 --> Config file loaded: E:\supplier\front\application\config/pagination.php
+DEBUG - 2016-11-23 11:44:19 --> Total execution time: 0.0720
+DEBUG - 2016-11-23 11:44:19 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897859.1517,"loading_time:_base_classes_start":1479897859.1517,"loading_time:_base_classes_end":1479897859.1707,"controller_execution_time_( Order \/ orderlist )_start":1479897859.1727,"controller_execution_time_( Order \/ orderlist )_end":1479897859.2237,"total_execution_time_end":1479897859.2237}}
+DEBUG - 2016-11-23 11:44:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:44:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:44:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:44:34 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:44:34 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897874.1527,"loading_time:_base_classes_start":1479897874.1527,"loading_time:_base_classes_end":1479897874.1797,"controller_execution_time_( Order \/ orderlist )_start":1479897874.1807}}
+DEBUG - 2016-11-23 11:44:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:44:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:44:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:44:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:44:49 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897889.8537,"loading_time:_base_classes_start":1479897889.8537,"loading_time:_base_classes_end":1479897889.8697,"controller_execution_time_( Order \/ orderlist )_start":1479897889.8707}}
+DEBUG - 2016-11-23 11:45:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:45:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:45:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:45:39 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:45:39 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897939.6147,"loading_time:_base_classes_start":1479897939.6147,"loading_time:_base_classes_end":1479897939.6307,"controller_execution_time_( Order \/ orderlist )_start":1479897939.6327}}
+DEBUG - 2016-11-23 11:45:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:45:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:45:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:45:42 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:45:42 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897942.3677,"loading_time:_base_classes_start":1479897942.3677,"loading_time:_base_classes_end":1479897942.3837,"controller_execution_time_( Order \/ orderlist )_start":1479897942.3847}}
+DEBUG - 2016-11-23 11:46:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:46:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:46:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:46:10 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:46:10 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479897969.9737,"loading_time:_base_classes_start":1479897969.9737,"loading_time:_base_classes_end":1479897970.0027,"controller_execution_time_( Order \/ orderlist )_start":1479897970.0117}}
+DEBUG - 2016-11-23 11:46:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:46:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:46:45 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898005.2577,"loading_time:_base_classes_start":1479898005.2577,"loading_time:_base_classes_end":1479898005.2777,"controller_execution_time_( Order \/ orderlist )_start":1479898005.2797}}
+DEBUG - 2016-11-23 11:47:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:47:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:47:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:47:13 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:47:13 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898033.0987,"loading_time:_base_classes_start":1479898033.0987,"loading_time:_base_classes_end":1479898033.1157,"controller_execution_time_( Order \/ orderlist )_start":1479898033.1167}}
+DEBUG - 2016-11-23 11:47:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:47:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:47:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:47:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:47:29 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898049.7727,"loading_time:_base_classes_start":1479898049.7727,"loading_time:_base_classes_end":1479898049.7897,"controller_execution_time_( Order \/ orderlist )_start":1479898049.7917}}
+DEBUG - 2016-11-23 11:47:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:47:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:47:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:47:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:47:48 --> Total execution time: 0.0970
+DEBUG - 2016-11-23 11:47:48 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898068.1787,"loading_time:_base_classes_start":1479898068.1787,"loading_time:_base_classes_end":1479898068.1997,"controller_execution_time_( Order \/ orderlist )_start":1479898068.2027,"controller_execution_time_( Order \/ orderlist )_end":1479898068.2757,"total_execution_time_end":1479898068.2757}}
+DEBUG - 2016-11-23 11:47:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:47:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:47:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:47:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:47:52 --> Total execution time: 0.0660
+DEBUG - 2016-11-23 11:47:52 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898072.0397,"loading_time:_base_classes_start":1479898072.0397,"loading_time:_base_classes_end":1479898072.0557,"controller_execution_time_( Order \/ orderlist )_start":1479898072.0567,"controller_execution_time_( Order \/ orderlist )_end":1479898072.1047,"total_execution_time_end":1479898072.1057}}
+DEBUG - 2016-11-23 11:49:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:49:34 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:49:35 --> Total execution time: 0.6070
+DEBUG - 2016-11-23 11:49:35 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898174.7337,"loading_time:_base_classes_start":1479898174.7337,"loading_time:_base_classes_end":1479898174.7527,"controller_execution_time_( Order \/ orderlist )_start":1479898174.7537,"controller_execution_time_( Order \/ orderlist )_end":1479898175.3407,"total_execution_time_end":1479898175.3407}}
+DEBUG - 2016-11-23 11:49:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:49:39 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:49:39 --> Total execution time: 0.2790
+DEBUG - 2016-11-23 11:49:39 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898179.6167,"loading_time:_base_classes_start":1479898179.6167,"loading_time:_base_classes_end":1479898179.6327,"controller_execution_time_( Order \/ orderlist )_start":1479898179.6347,"controller_execution_time_( Order \/ orderlist )_end":1479898179.8957,"total_execution_time_end":1479898179.8957}}
+DEBUG - 2016-11-23 11:50:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:50:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:50:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:50:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:50:17 --> Total execution time: 0.4130
+DEBUG - 2016-11-23 11:50:17 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898217.4727,"loading_time:_base_classes_start":1479898217.4727,"loading_time:_base_classes_end":1479898217.4897,"controller_execution_time_( Order \/ orderlist )_start":1479898217.4907,"controller_execution_time_( Order \/ orderlist )_end":1479898217.8857,"total_execution_time_end":1479898217.8857}}
+DEBUG - 2016-11-23 11:51:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:51:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:51:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:51:01 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:51:01 --> Total execution time: 0.2890
+DEBUG - 2016-11-23 11:51:01 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898261.0617,"loading_time:_base_classes_start":1479898261.0617,"loading_time:_base_classes_end":1479898261.0767,"controller_execution_time_( Order \/ orderlist )_start":1479898261.0777,"controller_execution_time_( Order \/ orderlist )_end":1479898261.3507,"total_execution_time_end":1479898261.3507}}
+DEBUG - 2016-11-23 11:51:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:51:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:51:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:51:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:51:02 --> Total execution time: 0.3570
+DEBUG - 2016-11-23 11:51:02 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898262.4787,"loading_time:_base_classes_start":1479898262.4787,"loading_time:_base_classes_end":1479898262.5067,"controller_execution_time_( Order \/ orderlist )_start":1479898262.5087,"controller_execution_time_( Order \/ orderlist )_end":1479898262.8357,"total_execution_time_end":1479898262.8357}}
+DEBUG - 2016-11-23 11:51:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:51:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:51:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:51:33 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:51:33 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898293.4637,"loading_time:_base_classes_start":1479898293.4637,"loading_time:_base_classes_end":1479898293.4827,"controller_execution_time_( Order \/ orderlist )_start":1479898293.4847}}
+DEBUG - 2016-11-23 11:52:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:52:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:52:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:52:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:52:09 --> Total execution time: 0.2950
+DEBUG - 2016-11-23 11:52:09 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898329.0057,"loading_time:_base_classes_start":1479898329.0057,"loading_time:_base_classes_end":1479898329.0227,"controller_execution_time_( Order \/ orderlist )_start":1479898329.0237,"controller_execution_time_( Order \/ orderlist )_end":1479898329.3007,"total_execution_time_end":1479898329.3007}}
+DEBUG - 2016-11-23 11:52:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:52:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:52:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:52:39 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:52:39 --> Total execution time: 0.2820
+DEBUG - 2016-11-23 11:52:39 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898359.5497,"loading_time:_base_classes_start":1479898359.5497,"loading_time:_base_classes_end":1479898359.5647,"controller_execution_time_( Order \/ orderlist )_start":1479898359.5657,"controller_execution_time_( Order \/ orderlist )_end":1479898359.8317,"total_execution_time_end":1479898359.8317}}
+DEBUG - 2016-11-23 11:53:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:53:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:53:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:53:19 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:53:19 --> Total execution time: 0.3170
+DEBUG - 2016-11-23 11:53:19 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898399.1077,"loading_time:_base_classes_start":1479898399.1077,"loading_time:_base_classes_end":1479898399.1287,"controller_execution_time_( Order \/ orderlist )_start":1479898399.1297,"controller_execution_time_( Order \/ orderlist )_end":1479898399.4247,"total_execution_time_end":1479898399.4247}}
+DEBUG - 2016-11-23 11:54:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:54:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:54:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:54:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:54:46 --> Total execution time: 0.3260
+DEBUG - 2016-11-23 11:54:46 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898486.5957,"loading_time:_base_classes_start":1479898486.5957,"loading_time:_base_classes_end":1479898486.6107,"controller_execution_time_( Order \/ orderlist )_start":1479898486.6117,"controller_execution_time_( Order \/ orderlist )_end":1479898486.9217,"total_execution_time_end":1479898486.9217}}
+DEBUG - 2016-11-23 11:55:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:55:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:55:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:55:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:55:02 --> Total execution time: 0.2730
+DEBUG - 2016-11-23 11:55:02 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898502.3257,"loading_time:_base_classes_start":1479898502.3257,"loading_time:_base_classes_end":1479898502.3447,"controller_execution_time_( Order \/ orderlist )_start":1479898502.3457,"controller_execution_time_( Order \/ orderlist )_end":1479898502.5987,"total_execution_time_end":1479898502.5987}}
+DEBUG - 2016-11-23 11:55:59 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:55:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:55:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:55:59 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:55:59 --> Total execution time: 0.0990
+DEBUG - 2016-11-23 11:55:59 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898559.3057,"loading_time:_base_classes_start":1479898559.3057,"loading_time:_base_classes_end":1479898559.3267,"controller_execution_time_( Order \/ orderlist )_start":1479898559.3277,"controller_execution_time_( Order \/ orderlist )_end":1479898559.4047,"total_execution_time_end":1479898559.4047}}
+DEBUG - 2016-11-23 11:56:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:56:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:56:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:56:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:56:06 --> Total execution time: 0.0820
+DEBUG - 2016-11-23 11:56:06 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898565.9277,"loading_time:_base_classes_start":1479898565.9277,"loading_time:_base_classes_end":1479898565.9457,"controller_execution_time_( Order \/ orderlist )_start":1479898565.9467,"controller_execution_time_( Order \/ orderlist )_end":1479898566.0097,"total_execution_time_end":1479898566.0097}}
+DEBUG - 2016-11-23 11:56:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:56:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:56:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 11:56:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 11:56:12 --> Total execution time: 0.0950
+DEBUG - 2016-11-23 11:56:12 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479898572.1377,"loading_time:_base_classes_start":1479898572.1377,"loading_time:_base_classes_end":1479898572.1557,"controller_execution_time_( Order \/ orderlist )_start":1479898572.1567,"controller_execution_time_( Order \/ orderlist )_end":1479898572.2327,"total_execution_time_end":1479898572.2327}}
+DEBUG - 2016-11-23 12:56:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 12:56:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 12:56:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 12:56:21 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 12:56:21 --> Total execution time: 0.0770
+DEBUG - 2016-11-23 12:56:21 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902181.4103,"loading_time:_base_classes_start":1479902181.4103,"loading_time:_base_classes_end":1479902181.4313,"controller_execution_time_( Order \/ orderlist )_start":1479902181.4333,"controller_execution_time_( Order \/ orderlist )_end":1479902181.4873,"total_execution_time_end":1479902181.4873}}
+DEBUG - 2016-11-23 12:56:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 12:56:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 12:56:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 12:56:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 12:56:25 --> Total execution time: 0.1120
+DEBUG - 2016-11-23 12:56:25 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902185.044,"loading_time:_base_classes_start":1479902185.044,"loading_time:_base_classes_end":1479902185.059,"controller_execution_time_( Order \/ orderlist )_start":1479902185.061,"controller_execution_time_( Order \/ orderlist )_end":1479902185.1561,"total_execution_time_end":1479902185.1561}}
+DEBUG - 2016-11-23 12:57:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 12:57:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 12:57:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 12:57:31 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 12:57:31 --> Total execution time: 0.1180
+DEBUG - 2016-11-23 12:57:31 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902251.3333,"loading_time:_base_classes_start":1479902251.3333,"loading_time:_base_classes_end":1479902251.3573,"controller_execution_time_( Order \/ orderlist )_start":1479902251.3583,"controller_execution_time_( Order \/ orderlist )_end":1479902251.4513,"total_execution_time_end":1479902251.4513}}
+DEBUG - 2016-11-23 13:01:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:01:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:01:35 --> Total execution time: 0.0800
+DEBUG - 2016-11-23 13:01:35 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902494.97,"loading_time:_base_classes_start":1479902494.97,"loading_time:_base_classes_end":1479902494.985,"controller_execution_time_( Order \/ demo )_start":1479902494.986,"controller_execution_time_( Order \/ demo )_end":1479902495.05,"total_execution_time_end":1479902495.05}}
+DEBUG - 2016-11-23 13:03:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:03:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:03:31 --> Total execution time: 0.0760
+DEBUG - 2016-11-23 13:03:31 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902611.8354,"loading_time:_base_classes_start":1479902611.8354,"loading_time:_base_classes_end":1479902611.8554,"controller_execution_time_( Order \/ demo )_start":1479902611.8564,"controller_execution_time_( Order \/ demo )_end":1479902611.9114,"total_execution_time_end":1479902611.9114}}
+DEBUG - 2016-11-23 13:03:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:03:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:03:48 --> Total execution time: 0.0770
+DEBUG - 2016-11-23 13:03:48 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902628.2997,"loading_time:_base_classes_start":1479902628.2997,"loading_time:_base_classes_end":1479902628.3177,"controller_execution_time_( Order \/ demo )_start":1479902628.3187,"controller_execution_time_( Order \/ demo )_end":1479902628.3767,"total_execution_time_end":1479902628.3767}}
+DEBUG - 2016-11-23 13:04:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:04:27 --> Total execution time: 0.0600
+DEBUG - 2016-11-23 13:04:27 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902666.9544,"loading_time:_base_classes_start":1479902666.9544,"loading_time:_base_classes_end":1479902666.9714,"controller_execution_time_( Order \/ demo )_start":1479902666.9734,"controller_execution_time_( Order \/ demo )_end":1479902667.0144,"total_execution_time_end":1479902667.0144}}
+DEBUG - 2016-11-23 13:06:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:06:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:06:11 --> Total execution time: 0.0810
+DEBUG - 2016-11-23 13:06:11 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902771.3617,"loading_time:_base_classes_start":1479902771.3617,"loading_time:_base_classes_end":1479902771.3787,"controller_execution_time_( Order \/ demo )_start":1479902771.3797,"controller_execution_time_( Order \/ demo )_end":1479902771.4427,"total_execution_time_end":1479902771.4427}}
+DEBUG - 2016-11-23 13:07:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:07:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:07:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:07:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:07:47 --> Total execution time: 0.1080
+DEBUG - 2016-11-23 13:07:47 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902867.1523,"loading_time:_base_classes_start":1479902867.1533,"loading_time:_base_classes_end":1479902867.1743,"controller_execution_time_( Order \/ orderlist )_start":1479902867.1753,"controller_execution_time_( Order \/ orderlist )_end":1479902867.2603,"total_execution_time_end":1479902867.2603}}
+DEBUG - 2016-11-23 13:08:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:08:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:08:01 --> Total execution time: 0.0460
+DEBUG - 2016-11-23 13:08:01 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902881.0017,"loading_time:_base_classes_start":1479902881.0017,"loading_time:_base_classes_end":1479902881.0177,"controller_execution_time_( Order \/ demo )_start":1479902881.0187,"controller_execution_time_( Order \/ demo )_end":1479902881.0477,"total_execution_time_end":1479902881.0477}}
+DEBUG - 2016-11-23 13:08:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:08:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:08:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:08:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:08:35 --> Total execution time: 0.0910
+DEBUG - 2016-11-23 13:08:35 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902915.1361,"loading_time:_base_classes_start":1479902915.1361,"loading_time:_base_classes_end":1479902915.1551,"controller_execution_time_( Order \/ orderlist )_start":1479902915.1571,"controller_execution_time_( Order \/ orderlist )_end":1479902915.2271,"total_execution_time_end":1479902915.2271}}
+DEBUG - 2016-11-23 13:08:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:08:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:08:45 --> Total execution time: 0.0550
+DEBUG - 2016-11-23 13:08:45 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902925.0231,"loading_time:_base_classes_start":1479902925.0231,"loading_time:_base_classes_end":1479902925.0461,"controller_execution_time_( Order \/ demo )_start":1479902925.0481,"controller_execution_time_( Order \/ demo )_end":1479902925.0781,"total_execution_time_end":1479902925.0781}}
+DEBUG - 2016-11-23 13:09:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:09:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:09:30 --> Total execution time: 0.0630
+DEBUG - 2016-11-23 13:09:30 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902970.7907,"loading_time:_base_classes_start":1479902970.7907,"loading_time:_base_classes_end":1479902970.8087,"controller_execution_time_( Order \/ demo )_start":1479902970.8097,"controller_execution_time_( Order \/ demo )_end":1479902970.8537,"total_execution_time_end":1479902970.8537}}
+DEBUG - 2016-11-23 13:09:50 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:09:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:09:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:09:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:09:51 --> Total execution time: 0.0670
+DEBUG - 2016-11-23 13:09:51 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479902990.9437,"loading_time:_base_classes_start":1479902990.9437,"loading_time:_base_classes_end":1479902990.9627,"controller_execution_time_( Order \/ orderlist )_start":1479902990.9637,"controller_execution_time_( Order \/ orderlist )_end":1479902991.0107,"total_execution_time_end":1479902991.0107}}
+DEBUG - 2016-11-23 13:10:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:10:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:10:01 --> Total execution time: 0.0630
+DEBUG - 2016-11-23 13:10:01 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903001.1897,"loading_time:_base_classes_start":1479903001.1897,"loading_time:_base_classes_end":1479903001.2077,"controller_execution_time_( Order \/ demo )_start":1479903001.2087,"controller_execution_time_( Order \/ demo )_end":1479903001.2527,"total_execution_time_end":1479903001.2527}}
+DEBUG - 2016-11-23 13:10:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:10:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:10:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:10:45 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:10:45 --> Total execution time: 0.0670
+DEBUG - 2016-11-23 13:10:45 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903045.2521,"loading_time:_base_classes_start":1479903045.2521,"loading_time:_base_classes_end":1479903045.2711,"controller_execution_time_( Order \/ orderlist )_start":1479903045.2721,"controller_execution_time_( Order \/ orderlist )_end":1479903045.3191,"total_execution_time_end":1479903045.3191}}
+DEBUG - 2016-11-23 13:10:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:10:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:10:48 --> Total execution time: 0.0670
+DEBUG - 2016-11-23 13:10:48 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903048.6954,"loading_time:_base_classes_start":1479903048.6954,"loading_time:_base_classes_end":1479903048.7164,"controller_execution_time_( Order \/ demo )_start":1479903048.7184,"controller_execution_time_( Order \/ demo )_end":1479903048.7625,"total_execution_time_end":1479903048.7625}}
+DEBUG - 2016-11-23 13:11:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:11:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:11:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:11:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:11:06 --> Total execution time: 0.1150
+DEBUG - 2016-11-23 13:11:06 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903066.5442,"loading_time:_base_classes_start":1479903066.5442,"loading_time:_base_classes_end":1479903066.5652,"controller_execution_time_( Order \/ orderlist )_start":1479903066.5672,"controller_execution_time_( Order \/ orderlist )_end":1479903066.6592,"total_execution_time_end":1479903066.6592}}
+DEBUG - 2016-11-23 13:11:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:11:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:11:10 --> Total execution time: 0.0820
+DEBUG - 2016-11-23 13:11:10 --> {"querySql":" ","queryTime":" ","uri":"order\/demo","params":{"1":"order","2":"demo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903070.3786,"loading_time:_base_classes_start":1479903070.3786,"loading_time:_base_classes_end":1479903070.4026,"controller_execution_time_( Order \/ demo )_start":1479903070.4046,"controller_execution_time_( Order \/ demo )_end":1479903070.4606,"total_execution_time_end":1479903070.4606}}
+DEBUG - 2016-11-23 13:11:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:11:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:11:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:11:31 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:11:31 --> Total execution time: 0.0980
+DEBUG - 2016-11-23 13:11:31 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903091.2517,"loading_time:_base_classes_start":1479903091.2517,"loading_time:_base_classes_end":1479903091.2757,"controller_execution_time_( Order \/ orderlist )_start":1479903091.2767,"controller_execution_time_( Order \/ orderlist )_end":1479903091.3497,"total_execution_time_end":1479903091.3497}}
+DEBUG - 2016-11-23 13:11:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 13:11:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 13:11:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2016-11-23 13:11:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2016-11-23 13:11:35 --> Total execution time: 0.0800
+DEBUG - 2016-11-23 13:11:35 --> {"querySql":" ","queryTime":" ","uri":"order\/orderlist","params":{"1":"order","2":"orderlist"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1479903095.6851,"loading_time:_base_classes_start":1479903095.6851,"loading_time:_base_classes_end":1479903095.7041,"controller_execution_time_( Order \/ orderlist )_start":1479903095.7051,"controller_execution_time_( Order \/ orderlist )_end":1479903095.7652,"total_execution_time_end":1479903095.7652}}

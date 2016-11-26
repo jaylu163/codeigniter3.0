@@ -1,0 +1,4 @@
+DEBUG - 2016-10-10 11:46:39 --> UTF-8 Support Enabled
+DEBUG - 2016-10-10 11:46:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-10 11:46:39 --> Total execution time: 0.0340
+DEBUG - 2016-10-10 11:46:39 --> {"querySql":" ","queryTime":" ","uri":"demo\/json","params":{"1":"demo","2":"json"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476092799.6548,"loading_time:_base_classes_start":1476092799.6548,"loading_time:_base_classes_end":1476092799.6828,"controller_execution_time_( Demo \/ json )_start":1476092799.6848,"controller_execution_time_( Demo \/ json )_end":1476092799.6888,"total_execution_time_end":1476092799.6888}}

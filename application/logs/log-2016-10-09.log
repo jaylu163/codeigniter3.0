@@ -1,0 +1,172 @@
+DEBUG - 2016-10-09 12:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:07:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:07:19 --> Total execution time: 0.1230
+DEBUG - 2016-10-09 12:07:19 --> {"querySql":" ","queryTime":" ","uri":"demo\/json","params":{"1":"demo","2":"json"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476007639.3068,"loading_time:_base_classes_start":1476007639.3068,"loading_time:_base_classes_end":1476007639.3898,"controller_execution_time_( Demo \/ json )_start":1476007639.4138,"controller_execution_time_( Demo \/ json )_end":1476007639.4298,"total_execution_time_end":1476007639.4298}}
+DEBUG - 2016-10-09 12:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:07:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-09 12:07:19 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2016-10-09 12:10:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:10:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:10:15 --> Total execution time: 1.2371
+DEBUG - 2016-10-09 12:10:15 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476007814.6494,"loading_time:_base_classes_start":1476007814.6494,"loading_time:_base_classes_end":1476007814.6644,"controller_execution_time_( Detail \/ DetailInfo )_start":1476007814.6654,"controller_execution_time_( Detail \/ DetailInfo )_end":1476007815.8865,"total_execution_time_end":1476007815.8865}}
+DEBUG - 2016-10-09 12:10:23 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:10:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:10:24 --> Total execution time: 1.2211
+DEBUG - 2016-10-09 12:10:24 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476007823.2822,"loading_time:_base_classes_start":1476007823.2822,"loading_time:_base_classes_end":1476007823.2982,"controller_execution_time_( Detail \/ DetailInfo )_start":1476007823.2992,"controller_execution_time_( Detail \/ DetailInfo )_end":1476007824.5034,"total_execution_time_end":1476007824.5034}}
+DEBUG - 2016-10-09 12:11:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:11:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:11:26 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476007885.4935,"loading_time:_base_classes_start":1476007885.4935,"loading_time:_base_classes_end":1476007885.5115,"controller_execution_time_( Detail \/ DetailInfo )_start":1476007885.5135}}
+DEBUG - 2016-10-09 12:11:59 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:11:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:11:59 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476007919.2408,"loading_time:_base_classes_start":1476007919.2408,"loading_time:_base_classes_end":1476007919.2568,"controller_execution_time_( Detail \/ DetailInfo )_start":1476007919.2578}}
+DEBUG - 2016-10-09 12:13:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:13:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:13:25 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008005.0244,"loading_time:_base_classes_start":1476008005.0244,"loading_time:_base_classes_end":1476008005.0434,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008005.0454}}
+DEBUG - 2016-10-09 12:13:36 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:13:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:13:37 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008016.7766,"loading_time:_base_classes_start":1476008016.7766,"loading_time:_base_classes_end":1476008016.7976,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008016.7986}}
+DEBUG - 2016-10-09 12:14:23 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:14:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:14:24 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008063.9313,"loading_time:_base_classes_start":1476008063.9313,"loading_time:_base_classes_end":1476008063.9553,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008063.9563}}
+DEBUG - 2016-10-09 12:14:42 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:14:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:14:43 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008082.7702,"loading_time:_base_classes_start":1476008082.7702,"loading_time:_base_classes_end":1476008082.7882,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008082.7892}}
+DEBUG - 2016-10-09 12:15:17 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:15:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:15:17 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008117.1016,"loading_time:_base_classes_start":1476008117.1016,"loading_time:_base_classes_end":1476008117.1226,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008117.1246}}
+DEBUG - 2016-10-09 12:16:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:16:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-09 12:16:36 --> Severity: Error --> Cannot use object of type CI_Output as array D:\xampp\htdocs\CAISSA_SID_Develop\group\api\branches\application\controllers\Detail.php 47
+DEBUG - 2016-10-09 12:18:57 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:18:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-10-09 12:18:57 --> Severity: Error --> Cannot use object of type CI_Output as array D:\xampp\htdocs\CAISSA_SID_Develop\group\api\branches\application\controllers\Detail.php 47
+DEBUG - 2016-10-09 12:19:06 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:19:07 --> Total execution time: 1.3091
+DEBUG - 2016-10-09 12:19:07 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008346.0525,"loading_time:_base_classes_start":1476008346.0525,"loading_time:_base_classes_end":1476008346.0715,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008346.0725,"controller_execution_time_( Detail \/ DetailInfo )_end":1476008347.3616,"total_execution_time_end":1476008347.3616}}
+DEBUG - 2016-10-09 12:19:28 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:19:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:19:29 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008368.8648,"loading_time:_base_classes_start":1476008368.8648,"loading_time:_base_classes_end":1476008368.8878,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008368.8898}}
+DEBUG - 2016-10-09 12:20:12 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:20:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:20:13 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008412.9592,"loading_time:_base_classes_start":1476008412.9592,"loading_time:_base_classes_end":1476008412.9752,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008412.9772}}
+DEBUG - 2016-10-09 12:20:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:20:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:20:43 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008443.1492,"loading_time:_base_classes_start":1476008443.1492,"loading_time:_base_classes_end":1476008443.1722,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008443.1742}}
+DEBUG - 2016-10-09 12:21:36 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:21:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:21:36 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008496.0895,"loading_time:_base_classes_start":1476008496.0895,"loading_time:_base_classes_end":1476008496.1045,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008496.1055}}
+DEBUG - 2016-10-09 12:22:25 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:22:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:22:25 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008545.2704,"loading_time:_base_classes_start":1476008545.2704,"loading_time:_base_classes_end":1476008545.2914,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008545.2934}}
+DEBUG - 2016-10-09 12:23:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:23:23 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008601.7831,"loading_time:_base_classes_start":1476008601.7831,"loading_time:_base_classes_end":1476008601.7991,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008601.8001}}
+DEBUG - 2016-10-09 12:23:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:23:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:23:49 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008629.3738,"loading_time:_base_classes_start":1476008629.3738,"loading_time:_base_classes_end":1476008629.3878,"controller_execution_time_( Detail \/ DetailInfo )_start":1476008629.3888}}
+DEBUG - 2016-10-09 12:28:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:28:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:28:40 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008920.3534,"loading_time:_base_classes_start":1476008920.3534,"loading_time:_base_classes_end":1476008920.3714,"controller_execution_time_( Detail \/ Find_resources )_start":1476008920.3724}}
+DEBUG - 2016-10-09 12:28:56 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:28:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:28:56 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008936.6774,"loading_time:_base_classes_start":1476008936.6774,"loading_time:_base_classes_end":1476008936.7004,"controller_execution_time_( Detail \/ Find_resources )_start":1476008936.7014}}
+DEBUG - 2016-10-09 12:29:54 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:29:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:29:54 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476008994.4454,"loading_time:_base_classes_start":1476008994.4454,"loading_time:_base_classes_end":1476008994.4704,"controller_execution_time_( Detail \/ Find_resources )_start":1476008994.4714}}
+DEBUG - 2016-10-09 12:30:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:30:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:30:32 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009032.2604,"loading_time:_base_classes_start":1476009032.2604,"loading_time:_base_classes_end":1476009032.2804,"controller_execution_time_( Detail \/ Find_resources )_start":1476009032.2824}}
+DEBUG - 2016-10-09 12:30:38 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:30:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:30:38 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009038.3804,"loading_time:_base_classes_start":1476009038.3804,"loading_time:_base_classes_end":1476009038.3954,"controller_execution_time_( Detail \/ Find_resources )_start":1476009038.3964}}
+DEBUG - 2016-10-09 12:31:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:31:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:31:00 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009060.8384,"loading_time:_base_classes_start":1476009060.8384,"loading_time:_base_classes_end":1476009060.8534,"controller_execution_time_( Detail \/ Find_resources )_start":1476009060.8544}}
+DEBUG - 2016-10-09 12:31:59 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:31:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:32:00 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009119.9584,"loading_time:_base_classes_start":1476009119.9584,"loading_time:_base_classes_end":1476009119.9804,"controller_execution_time_( Detail \/ Find_resources )_start":1476009119.9824}}
+DEBUG - 2016-10-09 12:32:44 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:32:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:32:45 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009164.9204,"loading_time:_base_classes_start":1476009164.9204,"loading_time:_base_classes_end":1476009164.9424,"controller_execution_time_( Detail \/ Find_resources )_start":1476009164.9434}}
+DEBUG - 2016-10-09 12:33:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:33:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:33:00 --> Total execution time: 0.0200
+DEBUG - 2016-10-09 12:33:00 --> {"querySql":" ","queryTime":" ","uri":"demo\/json","params":{"1":"demo","2":"json"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009180.6744,"loading_time:_base_classes_start":1476009180.6744,"loading_time:_base_classes_end":1476009180.6904,"controller_execution_time_( Demo \/ json )_start":1476009180.6924,"controller_execution_time_( Demo \/ json )_end":1476009180.6944,"total_execution_time_end":1476009180.6944}}
+DEBUG - 2016-10-09 12:33:30 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:33:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:33:30 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009210.6044,"loading_time:_base_classes_start":1476009210.6044,"loading_time:_base_classes_end":1476009210.6204,"controller_execution_time_( Detail \/ Find_resources )_start":1476009210.6214}}
+DEBUG - 2016-10-09 12:33:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:33:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:33:50 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009230.4934,"loading_time:_base_classes_start":1476009230.4934,"loading_time:_base_classes_end":1476009230.5114,"controller_execution_time_( Detail \/ Find_resources )_start":1476009230.5134}}
+DEBUG - 2016-10-09 12:34:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:34:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:34:00 --> Total execution time: 0.0170
+DEBUG - 2016-10-09 12:34:00 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009240.2474,"loading_time:_base_classes_start":1476009240.2474,"loading_time:_base_classes_end":1476009240.2604,"controller_execution_time_( Detail \/ Find_resources )_start":1476009240.2614,"controller_execution_time_( Detail \/ Find_resources )_end":1476009240.2644,"total_execution_time_end":1476009240.2644}}
+DEBUG - 2016-10-09 12:34:15 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:34:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:34:16 --> Total execution time: 0.1370
+DEBUG - 2016-10-09 12:34:16 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009255.9114,"loading_time:_base_classes_start":1476009255.9114,"loading_time:_base_classes_end":1476009255.9274,"controller_execution_time_( Detail \/ Find_resources )_start":1476009255.9284,"controller_execution_time_( Detail \/ Find_resources )_end":1476009256.0484,"total_execution_time_end":1476009256.0484}}
+DEBUG - 2016-10-09 12:34:30 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:34:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:34:30 --> Total execution time: 0.1370
+DEBUG - 2016-10-09 12:34:30 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009270.6244,"loading_time:_base_classes_start":1476009270.6244,"loading_time:_base_classes_end":1476009270.6434,"controller_execution_time_( Detail \/ Find_resources )_start":1476009270.6444,"controller_execution_time_( Detail \/ Find_resources )_end":1476009270.7614,"total_execution_time_end":1476009270.7614}}
+DEBUG - 2016-10-09 12:35:14 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:35:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:35:14 --> Total execution time: 0.1370
+DEBUG - 2016-10-09 12:35:14 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009314.4874,"loading_time:_base_classes_start":1476009314.4874,"loading_time:_base_classes_end":1476009314.5034,"controller_execution_time_( Detail \/ Find_resources )_start":1476009314.5044,"controller_execution_time_( Detail \/ Find_resources )_end":1476009314.6244,"total_execution_time_end":1476009314.6244}}
+DEBUG - 2016-10-09 12:35:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:35:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:35:16 --> Total execution time: 0.1230
+DEBUG - 2016-10-09 12:35:16 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009316.0684,"loading_time:_base_classes_start":1476009316.0684,"loading_time:_base_classes_end":1476009316.0844,"controller_execution_time_( Detail \/ Find_resources )_start":1476009316.0854,"controller_execution_time_( Detail \/ Find_resources )_end":1476009316.1914,"total_execution_time_end":1476009316.1914}}
+DEBUG - 2016-10-09 12:39:11 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:39:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:39:11 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009551.4994,"loading_time:_base_classes_start":1476009551.4994,"loading_time:_base_classes_end":1476009551.5144,"controller_execution_time_( Detail \/ DetailInfo )_start":1476009551.5154}}
+DEBUG - 2016-10-09 12:39:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:39:38 --> Total execution time: 0.1260
+DEBUG - 2016-10-09 12:39:38 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009577.9234,"loading_time:_base_classes_start":1476009577.9234,"loading_time:_base_classes_end":1476009577.9424,"controller_execution_time_( Detail \/ Find_resources )_start":1476009577.9434,"controller_execution_time_( Detail \/ Find_resources )_end":1476009578.0494,"total_execution_time_end":1476009578.0494}}
+DEBUG - 2016-10-09 12:39:58 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:39:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:39:58 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009598.4514,"loading_time:_base_classes_start":1476009598.4514,"loading_time:_base_classes_end":1476009598.4664,"controller_execution_time_( Detail \/ Find_resources )_start":1476009598.4684}}
+DEBUG - 2016-10-09 12:44:24 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:44:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:44:24 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009864.1472,"loading_time:_base_classes_start":1476009864.1472,"loading_time:_base_classes_end":1476009864.1662,"controller_execution_time_( Detail \/ Find_resources )_start":1476009864.1672}}
+DEBUG - 2016-10-09 12:44:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:44:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:44:50 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009889.9658,"loading_time:_base_classes_start":1476009889.9658,"loading_time:_base_classes_end":1476009889.9818,"controller_execution_time_( Detail \/ Find_resources )_start":1476009889.9838}}
+DEBUG - 2016-10-09 12:45:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:45:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:45:04 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009904.4282,"loading_time:_base_classes_start":1476009904.4282,"loading_time:_base_classes_end":1476009904.4462,"controller_execution_time_( Detail \/ Find_resources )_start":1476009904.4482}}
+DEBUG - 2016-10-09 12:45:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:45:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:45:13 --> Total execution time: 0.1430
+DEBUG - 2016-10-09 12:45:13 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009913.1071,"loading_time:_base_classes_start":1476009913.1071,"loading_time:_base_classes_end":1476009913.1321,"controller_execution_time_( Detail \/ Find_resources )_start":1476009913.1331,"controller_execution_time_( Detail \/ Find_resources )_end":1476009913.2501,"total_execution_time_end":1476009913.2501}}
+DEBUG - 2016-10-09 12:45:51 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:45:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:45:52 --> Total execution time: 0.1320
+DEBUG - 2016-10-09 12:45:52 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009951.916,"loading_time:_base_classes_start":1476009951.916,"loading_time:_base_classes_end":1476009951.934,"controller_execution_time_( Detail \/ Find_resources )_start":1476009951.935,"controller_execution_time_( Detail \/ Find_resources )_end":1476009952.048,"total_execution_time_end":1476009952.048}}
+DEBUG - 2016-10-09 12:46:01 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:01 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009961.0749,"loading_time:_base_classes_start":1476009961.0749,"loading_time:_base_classes_end":1476009961.1019,"controller_execution_time_( Detail \/ Find_resources )_start":1476009961.1029}}
+DEBUG - 2016-10-09 12:46:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:02 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009962.632,"loading_time:_base_classes_start":1476009962.632,"loading_time:_base_classes_end":1476009962.649,"controller_execution_time_( Detail \/ Find_resources )_start":1476009962.65}}
+DEBUG - 2016-10-09 12:46:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:02 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:02 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009962.7801,"loading_time:_base_classes_start":1476009962.7801,"loading_time:_base_classes_end":1476009962.7971,"controller_execution_time_( Detail \/ Find_resources )_start":1476009962.7991}}
+DEBUG - 2016-10-09 12:46:03 --> {"querySql":" ","queryTime":" ","uri":"Detail\/Find_resources","params":{"1":"Detail","2":"Find_resources"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476009962.8821,"loading_time:_base_classes_start":1476009962.8821,"loading_time:_base_classes_end":1476009962.9001,"controller_execution_time_( Detail \/ Find_resources )_start":1476009962.9011}}
+DEBUG - 2016-10-09 12:46:44 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:44 --> Total execution time: 0.3000
+DEBUG - 2016-10-09 12:46:44 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476010004.2822,"loading_time:_base_classes_start":1476010004.2822,"loading_time:_base_classes_end":1476010004.3022,"controller_execution_time_( Detail \/ DetailInfo )_start":1476010004.3032,"controller_execution_time_( Detail \/ DetailInfo )_end":1476010004.5822,"total_execution_time_end":1476010004.5822}}
+DEBUG - 2016-10-09 12:46:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:45 --> Total execution time: 0.3000
+DEBUG - 2016-10-09 12:46:45 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476010005.5953,"loading_time:_base_classes_start":1476010005.5953,"loading_time:_base_classes_end":1476010005.6123,"controller_execution_time_( Detail \/ DetailInfo )_start":1476010005.6133,"controller_execution_time_( Detail \/ DetailInfo )_end":1476010005.8954,"total_execution_time_end":1476010005.8954}}
+DEBUG - 2016-10-09 12:46:46 --> UTF-8 Support Enabled
+DEBUG - 2016-10-09 12:46:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-09 12:46:47 --> Total execution time: 0.2960
+DEBUG - 2016-10-09 12:46:47 --> {"querySql":" ","queryTime":" ","uri":"Detail\/DetailInfo","params":{"1":"Detail","2":"DetailInfo"},"baseUrl":"http:\/\/imgs.caissa.com.cn\/","logLevel":2,"marker":{"total_execution_time_start":1476010006.7865,"loading_time:_base_classes_start":1476010006.7865,"loading_time:_base_classes_end":1476010006.8045,"controller_execution_time_( Detail \/ DetailInfo )_start":1476010006.8065,"controller_execution_time_( Detail \/ DetailInfo )_end":1476010007.0825,"total_execution_time_end":1476010007.0825}}
