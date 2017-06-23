@@ -5,23 +5,29 @@
  * Date: 2016/9/6
  * Time: 10:24
  */
+
+
 defined('BASEPATH') OR exit('No direct script access allowed');
+
 class Base_Controller extends CI_Controller {
 
     protected $model;
     public  $baseHelper;      // 基础助手
     public  $baseInterface;   // 基础接口
+
     public function __construct(){
+
         parent::__construct();
-        self::loadLogicClassName('Base_Interface','core');// 加载interface 类
+        self::loadLogicClassName('Base_Interface','core');  //加载interface 类
         Base_Interface::$baseController = $this;
-        Base_Interface::$dbInstance   = $this->load->database('log',true);
-        //$this->isLoaded();
+        self::loadLogicClassName('AOPProxy','core');  //加载interface 类
+
     }
 
     public function __destruct(){
 
-        $this->setLog();
+         $this->setLog();
+
     }
 
     protected function isLoaded(){
@@ -40,26 +46,35 @@ class Base_Controller extends CI_Controller {
 
          self::loadLogicClassName('Base_comhelper','core');
          $helperInstance = new Base_comhelper();
-          return $helperInstance;
+         return $helperInstance;
 
      }
 
 
+    /**
+     * 返回代理类
+     * @param $instance
+     * @return AOPProxy
+     */
+     public function proxy($instance){
 
-    public  function setLog($name='Base_Logprofiles',$segment='writeLog'){
+         return new AOPProxy($instance);
+     }
+
+     public  function setLog($name='Base_Logprofiles',$segment='writeLog'){
 
         self::loadLogicClassName('Base_Logprofiles','core');
         $logprofiles = new Base_Logprofiles();
 
-      return   call_user_func_array(array($logprofiles,'writeLog'),array('INFO'));
-    }
+        return   call_user_func_array(array($logprofiles,'writeLog'),array('INFO'));
+     }
 
 
-    /**
+     /**
      * 找不到视图会报错
      * @param string $page
      */
-    public function view($page = 'home'){
+     public function view($page = 'home',$data){
         if ( ! file_exists(APPPATH.'/views/pages/'.$page.'.php')) {
             // Whoops, we don't have a page for that!
             show_404();
@@ -69,7 +84,7 @@ class Base_Controller extends CI_Controller {
         $this->load->view('templates/header', $data);
         $this->load->view('pages/'.$page, $data);
         $this->load->view('templates/footer', $data);
-    }
+     }
 
     /**
      * 加载单个文件
@@ -148,7 +163,7 @@ class Base_Controller extends CI_Controller {
             'content' =>$content,
             'description' =>$description
         );
-        $this->load->view('common/top',$data);
+        $this->load->view('head',$data);
     }
 
     /**
@@ -228,16 +243,29 @@ class Base_Controller extends CI_Controller {
         curl_setopt($ch,CURLOPT_CONNECTTIMEOUT,$connectTimeout);
         curl_setopt($ch,CURLOPT_TIMEOUT,$curlTimeout);
         $result = curl_exec($ch);
-
         // 失败重试一次
-        if (curl_getinfo($ch, CURLINFO_HTTP_CODE) !== 200) {
+        $httpCode =curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        // 失败重试一次
+        if ($httpCode !== 200) {
             $result = curl_exec($ch);
+            $info = curl_getinfo($ch);
+            return array(
+                'code' =>$httpCode,
+                'data' =>$result,
+                'msg'  =>$info
+            );
         }
 
         if($result === false){
             $error = curl_error($ch);
-            throw new Exception('Curl error: ' .$error);
+            $result=array(
+                'Curl error'=>$error,
+                'code'=>$httpCode,
+                'msg'=>'服务器异常'
+            );
+            //throw new Exception('Curl error: ' .$error);
         }
+
         curl_close($ch);
         return $result;
     }
@@ -262,14 +290,29 @@ class Base_Controller extends CI_Controller {
         $result = curl_exec($ch);
 
         // 失败重试一次
-        if (curl_getinfo($ch, CURLINFO_HTTP_CODE) !== 200) {
+        $httpCode =curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        // 失败重试一次
+        if ($httpCode !== 200) {
             $result = curl_exec($ch);
+            $info   = curl_getinfo($ch);
+            return array(
+                'code' =>$httpCode,
+                'data' =>$result,
+                'msg'  =>$info
+            );
         }
+
         if($result === false){
             $error = curl_error($ch);
-            throw new Exception('Curl error: ' .$error);
+            $result=array(
+                'Curl error'=>$error,
+                'code'=>$httpCode,
+                'msg'=>'服务器异常'
+            );
+            //throw new Exception('Curl error: ' .$error);
         }
         curl_close($ch);
+
         return $result;
     }
 
@@ -336,78 +379,26 @@ class Base_Controller extends CI_Controller {
     public function common_footer($status=null){
         $this->load->view('common/footer');
     }
+
     /**
-     * 验证是否已登录，否则跳转到登录页面
-     * @author liuzhi
-     * @since 2016-11-21
+     *
      */
-    public function checkLogin(){
-        $this->load->library('session', array('cookie_lifetime' => 0));
-        $this->load->model('user_model');
-        //session中有值为已登录
-        $uid = $this->session->{config_item('SESSION_USERINFO_NAME')};
-        if (empty($uid)) {
-            //是否记住密码自动登录
-            $userInfoCook = $this->input->cookie(config_item('COOKIE_USERINFO_NAME'));
-            if (!empty($userInfoCook)) {
-                $userInfoCook = $this->encrypt($userInfoCook, true);
-                $infoArr = explode('|', $userInfoCook);
-                
-                $this->userInfo = $this->user_model->getUserByWhere(array('a.id' => $infoArr[0]));
-                if (!empty($this->userInfo) && $this->userInfo['supplier_status'] == 0 && $this->userInfo['status'] == 1 && $this->setUserInfo()) {
-                    return true;
-                }
-            }
-        } else {
-            $this->userInfo = $this->user_model->getUserByWhere(array('a.id' => $uid));
-            if (!empty($this->userInfo) && $this->userInfo['supplier_status'] == 0 && $this->userInfo['status'] == 1 && $this->setUserInfo()) {
-                return true;
-            }
-        }
-        //$this->load->helper('url');
-        redirect(config_item('STATIC_HOST') . 'login/');
+    public function fwriteLog(){
+
+        $url    = $this->input->post('url');
+        $params = $this->input->post('params');
+        $result = $this->input->post('result');
+        $method = $this->input->post('method');
+        $sysTime= $this->input->post('systime');
+        $requestUid = $this->input->post('request_uid');
+        $requestUidStr = 'request_uid:'.$requestUid.':';
+
+        log_message('debug',$requestUidStr.'request_url:' . $url);
+        log_message('debug',$requestUidStr.'params :' . var_export($params, true));
+        log_message('debug',$requestUidStr.'method:' . $method);
+        log_message('debug',$requestUidStr.'response ' . var_export($result, true));
+        log_message('debug',$requestUidStr.'response_time:' .$sysTime);
+
     }
-    /**
-     * 登录成功后设置用户信息
-     * @param $remember 是否记录7天cookie
-     * @author liuzhi
-     * @since 2016-11-21
-     */
-    public function setUserInfo($remember = false){
-        if (isset($this->userInfo['id']) && isset($this->userInfo['name'])) {
-            $cookie = $this->encrypt("{$this->userInfo['id']}|{$this->userInfo['name']}|{$this->userInfo['true_name']}");
-            if ($remember) {
-                //勾选自动登录，存储cookie，设置有效期
-                $this->input->set_cookie(config_item('COOKIE_USERINFO_NAME'), $cookie, $remember);
-            } else {
-                //记录临时COOKIE，关闭浏览器后失效
-                $this->input->set_cookie(config_item('COOKIE_USERINFO_NAME'), $cookie, 0);
-            }
-            $this->session->set_userdata(config_item('SESSION_USERINFO_NAME'), $this->userInfo['id']);
-            get_instance()->userInfo = $this->userInfo;
-            return true;
-        }
-        return false;
-    }
-    /**
-     * 加密字符串
-     * @param $str 待加密字符串
-     * @param $decrypt 解密
-     */
-    public function encrypt($str, $decrypt = false){
-        $this->load->library('encryption');
-        $this->encryption->initialize(
-            array(
-                'cipher' => 'aes-256',
-                'mode' => 'ctr',
-                'key' => config_item('RANDOM_SECRET')
-            )
-        );
-        //解密
-        if ($decrypt) {
-            return $this->encryption->decrypt($str);
-        }
-        //加密
-        return $this->encryption->encrypt($str);
-    }
+
 }

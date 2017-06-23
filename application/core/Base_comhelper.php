@@ -6,7 +6,7 @@
  * Time: 11:17
  */
 
-class  Base_Comhelper  extends CI_Controller {
+class  Base_comhelper  extends CI_Controller {
 
 
     public function sendMail($title='',$to='',$message =''){
@@ -55,26 +55,115 @@ class  Base_Comhelper  extends CI_Controller {
     }
 
     /**
-     * @param $total
-     * @param int $perPage
-     * @param string $action
-     * @return mixed
+     * 判断浏览器类型
+     * @return string
      */
-    public function page($total,$perPage=15,$action=''){
+    public function getMobileBrowse(){
+            // 如果有HTTP_X_WAP_PROFILE则一定是移动设备
+            if (isset ($_SERVER['HTTP_X_WAP_PROFILE'])) {
+                return true;
+            }
+            // 如果via信息含有wap则一定是移动设备,部分服务商会屏蔽该信息
+            if (isset ($_SERVER['HTTP_VIA'])) {
+                // 找不到为flase,否则为true
+                return stristr($_SERVER['HTTP_VIA'], "wap") ? true : false;
+            }
+            // 脑残法，判断手机发送的客户端标志,兼容性有待提高
+            if (isset ($_SERVER['HTTP_USER_AGENT'])) {
+                $clientkeywords = array ('nokia',
+                    'sony',
+                    'ericsson',
+                    'mot',
+                    'samsung',
+                    'htc',
+                    'sgh',
+                    'lg',
+                    'sharp',
+                    'sie-',
+                    'philips',
+                    'panasonic',
+                    'alcatel',
+                    'lenovo',
+                    'iphone',
+                    'ipod',
+                    'blackberry',
+                    'meizu',
+                    'android',
+                    'netfront',
+                    'symbian',
+                    'ucweb',
+                    'windowsce',
+                    'palm',
+                    'operamini',
+                    'operamobi',
+                    'openwave',
+                    'nexusone',
+                    'cldc',
+                    'midp',
+                    'wap',
+                    'mobile'
+                );
+                // 从HTTP_USER_AGENT中查找手机浏览器的关键字
+                if (preg_match("/(" . implode('|', $clientkeywords) . ")/i", strtolower($_SERVER['HTTP_USER_AGENT'])))
+                {
+                    return true;
+                }
+            }
+            // 协议法，因为有可能不准确，放到最后判断
+            if (isset ($_SERVER['HTTP_ACCEPT'])) {
+                // 如果只支持wml并且不支持html那一定是移动设备
+                // 如果支持wml和html但是wml在html之前则是移动设备
+                if ((strpos($_SERVER['HTTP_ACCEPT'], 'vnd.wap.wml') !== false) && (strpos($_SERVER['HTTP_ACCEPT'], 'text/html') === false || (strpos($_SERVER['HTTP_ACCEPT'], 'vnd.wap.wml') < strpos($_SERVER['HTTP_ACCEPT'], 'text/html')))) {
+                    return true;
+                }
+            }
+            return false;
+        }
 
-        $this->load->library('pagination');
-        $pagination = load_class('pagination');
-        $this->load->config('pagination',true); // 引进文件，同时想要修改样式，pagination.php 中的class="pagination"
-        $config = $this->config->config['pagination'];
+        /**
+         * @param $tableKey
+         * @param $data
+         * @return int
+         */
+        public function writeCacheLog($tableKey ,$data){
 
-        $this->load->helper('url');
+            if(is_null(json_decode($data)) !=false){
+                $data =json_encode($data);
+            }
 
-        $host = $_SERVER['HTTP_HOST'];
-        $config['base_url'] = $host.'/'.$action;
+            try{
 
-        $config['total_rows'] = $total;  // 后端接口或是数据库的数据条数。
-        $config['per_page']   = $perPage;    //每一页显示的数据条数
-        $pagination->initialize($config);
-        return $pagination->create_links();
-    }
+                $redis  = $this  ->loadRedis();
+                $result = $redis ->lPush($tableKey,$data);
+
+            }catch (Exception $exception){
+
+                $result =array(
+                    'code'     =>$exception->getCode(),
+                    'exception'=>$exception->getMessage(),
+                    'line'     =>$exception->getFile()
+                );
+            }
+
+            return $result;
+
+        }
+
+        /**
+         * @return Redis
+         */
+        protected  function loadRedis(){
+
+            $redis = new Redis();
+            $this->load->config(ENVIRONMENT.'/redis');
+            $config = get_instance()->config->config;
+
+            $host =  $config['redis_cluster_host'];
+            $port =  $config['redis_cluster_port'];
+            $timeout = $config['redis_cluster_timeout'];
+            $redis->connect($host,$port,$timeout);
+            return $redis;
+
+        }
+        
 }

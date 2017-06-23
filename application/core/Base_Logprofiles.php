@@ -34,15 +34,20 @@ class Base_Logprofiles extends CI_Model {
         $baseUrl = $this->config->config['base_url'];
         $logTh = $this->config->config['log_threshold'];
         $marker = $this->benchmark->marker;
+
         $message = array(
             'querySql' =>$querySql,
             'queryTime' =>$queryTime,
             'uri'       =>$uri,
             'params'    =>$params,
-            'baseUrl'   =>$baseUrl,
-            'logLevel'  =>$logTh,
-            'marker'    =>$marker
+             'requestUri'=>$_SERVER['REQUEST_URI'],
+             'requestMethod'=>$_SERVER['REQUEST_METHOD'],
+             'host'     =>$_SERVER['HTTP_HOST'],
+             'baseUrl'   =>$baseUrl,
+             'logLevel'  =>$logTh,
+             'marker'    =>$marker
         );
+
         return $message;
     }
 
@@ -57,7 +62,7 @@ class Base_Logprofiles extends CI_Model {
         }
         $message =json_encode($message);
 
-       return  $this->log->write_log($level,$message);
+      // return  $this->log->write_log($level,$message);
     }
 
     public function writeRedis($message){
