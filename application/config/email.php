@@ -10,19 +10,19 @@ $config['subject']   = '邮件标题';
 
 $config['host']      = 'smtp.caissa.com.cn';    // 邮件服务器
 
-$config['username']  = 'system_zyx@caissa.com.cn';  // 用户名 system_zyx@caissa.com.cn
+$config['username']  = '';  // 用户名 
 
-$config['password']  = 'CaiSsa!Zqp*NSy8h'; // 密码
+$config['password']  = ''; // 密码
 
 $config['port']      = 25;                 // 端口;
 
 $config['auth']      = true;  // 邮件发送开启认证
 
-$config['from']      = 'system_zyx@caissa.com.cn';  // 发件地址 system_zyx@caissa.com.cn
+$config['from']      = '';  // 发件地址 
 
-$config['fromname']  = 'group';  // 发件名字
+$config['fromname']  = '';  // 发件名字
 
-$config['to']        = 'luhuajun@caissa.com.cn';  // 多个人可以逗号分隔或者是放在一个数组中
+$config['to']        = '';  // 多个人可以逗号分隔或者是放在一个数组中
 
 $config['protocol']  = 'sendmail';
 
