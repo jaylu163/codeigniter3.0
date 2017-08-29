@@ -8,7 +8,7 @@
 
 $config['subject']   = '邮件标题';
 
-$config['host']      = 'smtp.caissa.com.cn';    // 邮件服务器
+$config['host']      = 'smtp.***.com.cn';    // 邮件服务器
 
 $config['username']  = '';  // 用户名 
 
