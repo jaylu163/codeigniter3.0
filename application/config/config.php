@@ -507,4 +507,9 @@ $config['rewrite_short_tags'] = FALSE;
 | Comma-separated:	'10.0.1.200,192.168.5.0/24'
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
+
+
+//$config['zookeeper_host_list'] ='172.16.37.112:2181,172.16.37.112:2182,172.16.37.112:2183';
+
+
 $config['proxy_ips'] = '';

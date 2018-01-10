@@ -55,58 +55,14 @@
 </div>
 <!--公用头部-->
     <div class="gtop_css">
-        <div class="gtop clear">
-            <h1 class="gtop_css_h1"><img src="/static/images/step1_02.jpg" title="凯撒旅游" /></h1>
-            <div class="gtop_css_p">
-                <span class="gtop_span gtop_sp" onclick="location.href='/login/logout';">退出</span>
-                <span class="gtop_span edit_pass public_table">修改密码</span>
-                <span class="gtop_span">你好，<font style="color:#fcac00;"><?php  echo isset($this->userInfo['name'])?$this->userInfo['name']:'';?></font> </span>
-            </div>
-        </div>
-        <div class="gtop_ban">
-            <ul>
-                <li class="li_first li_new"><a href="/home">首页</a></li>
-                <li class="li_new">
-                    <a href="">产品管理</a>
-                    <div class="cai_dan">
-                        <span class="cai_dan"><a href="/product/index">参团游产品</a></span>
-                    </div>
-                </li>
-                <li>
-                    <a href="">订单管理</a>
-                    <div class="cai_dan">
-                        <span class="cai_dan"><a href="/order/orderlist">参团游产品</a></span>
-                    </div>
-                </li>
-                <li><a href="/user/index">用户管理</a></li>
-                <li><a href="">我的待办</a></li>
-            </ul>
-        </div>
+
     </div>
 <!--公用头部-->
 
 
 
 <div class="pop_box" id="pop_edit_pass" style="display:none;">
-    <div class="pop_wd">
-        <div class="model_w_con" style="width: 450px; height: 260px; top: 30%; margin: 0px; margin-left: -200px;">
-            <div class="pop_top"><strong class="close"><i></i></strong></div>
-            <div class="add_kc">
-                <ul>
-                    <li><label><i>*</i>新密码：</label><input type="password" name="password" value=""></li>
-                    <li><label><i>*</i>确认密码：</label><input type="password" name="password2" value=""></li>
-                </ul>
-            </div>
-            <div class="pop_btn">
-                <p>
-                    <input type="button" name="submit_edit_pass" value="确认" />
-                    <span class="" style="font: 12px Microsoft YaHei,Arial;"></span>
-                </p>
 
-            </div>
-        </div>
-    </div>
-    <div class="modal_bg" id="mask"></div>
 </div>
 
 <script type="text/javascript">
